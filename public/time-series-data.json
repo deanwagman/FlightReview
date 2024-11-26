@@ -1,0 +1,6325 @@
+{
+  "data": [
+    {
+      "avionics": {
+        "latitude": "37.4579582",
+        "longitude": "-122.1125259",
+        "altitudeFt": "22.8",
+        "groundSpeedKt": "0.00",
+        "pitchDeg": "3.52",
+        "rollDeg": "0.69"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.53",
+        "oilTempF": "170.53",
+        "oilPressurePSI": "59.35",
+        "rpm": "1283.9"
+      },
+      "timestamp": "2020-09-22T14:11:02.185Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4579544",
+        "longitude": "-122.1125259",
+        "altitudeFt": "25.8",
+        "groundSpeedKt": "1.31",
+        "pitchDeg": "3.00",
+        "rollDeg": "0.79"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.56",
+        "oilTempF": "170.51",
+        "oilPressurePSI": "59.39",
+        "rpm": "1288.5"
+      },
+      "timestamp": "2020-09-22T14:11:03.039Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4579468",
+        "longitude": "-122.1125107",
+        "altitudeFt": "25.8",
+        "groundSpeedKt": "1.83",
+        "pitchDeg": "2.55",
+        "rollDeg": "0.88"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.51",
+        "oilTempF": "170.48",
+        "oilPressurePSI": "59.50",
+        "rpm": "1293.5"
+      },
+      "timestamp": "2020-09-22T14:11:03.835Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4579391",
+        "longitude": "-122.1125107",
+        "altitudeFt": "25.8",
+        "groundSpeedKt": "2.09",
+        "pitchDeg": "2.78",
+        "rollDeg": "0.94"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.51",
+        "oilTempF": "170.45",
+        "oilPressurePSI": "59.50",
+        "rpm": "1294.7"
+      },
+      "timestamp": "2020-09-22T14:11:04.938Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4579277",
+        "longitude": "-122.1124878",
+        "altitudeFt": "26.8",
+        "groundSpeedKt": "2.95",
+        "pitchDeg": "1.85",
+        "rollDeg": "0.89"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.53",
+        "oilTempF": "170.43",
+        "oilPressurePSI": "59.57",
+        "rpm": "1298.8"
+      },
+      "timestamp": "2020-09-22T14:11:05.971Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4579239",
+        "longitude": "-122.1124725",
+        "altitudeFt": "27.8",
+        "groundSpeedKt": "3.39",
+        "pitchDeg": "1.85",
+        "rollDeg": "1.16"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.56",
+        "oilTempF": "170.40",
+        "oilPressurePSI": "59.47",
+        "rpm": "1296.9"
+      },
+      "timestamp": "2020-09-22T14:11:06.933Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4579124",
+        "longitude": "-122.1124420",
+        "altitudeFt": "25.8",
+        "groundSpeedKt": "4.19",
+        "pitchDeg": "2.03",
+        "rollDeg": "0.94"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.60",
+        "oilTempF": "170.38",
+        "oilPressurePSI": "59.42",
+        "rpm": "1293.8"
+      },
+      "timestamp": "2020-09-22T14:11:07.851Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4579048",
+        "longitude": "-122.1124191",
+        "altitudeFt": "26.8",
+        "groundSpeedKt": "4.77",
+        "pitchDeg": "2.21",
+        "rollDeg": "0.54"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.61",
+        "oilTempF": "170.36",
+        "oilPressurePSI": "59.49",
+        "rpm": "1292.0"
+      },
+      "timestamp": "2020-09-22T14:11:08.949Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4579010",
+        "longitude": "-122.1123886",
+        "altitudeFt": "27.8",
+        "groundSpeedKt": "5.33",
+        "pitchDeg": "1.78",
+        "rollDeg": "1.02"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.56",
+        "oilTempF": "170.34",
+        "oilPressurePSI": "59.57",
+        "rpm": "1293.6"
+      },
+      "timestamp": "2020-09-22T14:11:10.147Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4578934",
+        "longitude": "-122.1123657",
+        "altitudeFt": "25.8",
+        "groundSpeedKt": "5.33",
+        "pitchDeg": "1.68",
+        "rollDeg": "1.02"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.56",
+        "oilTempF": "170.32",
+        "oilPressurePSI": "59.64",
+        "rpm": "1304.1"
+      },
+      "timestamp": "2020-09-22T14:11:11.127Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4579048",
+        "longitude": "-122.1123199",
+        "altitudeFt": "25.8",
+        "groundSpeedKt": "5.79",
+        "pitchDeg": "1.41",
+        "rollDeg": "1.04"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.53",
+        "oilTempF": "170.30",
+        "oilPressurePSI": "59.64",
+        "rpm": "1308.3"
+      },
+      "timestamp": "2020-09-22T14:11:11.993Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4579277",
+        "longitude": "-122.1122665",
+        "altitudeFt": "24.8",
+        "groundSpeedKt": "7.27",
+        "pitchDeg": "2.07",
+        "rollDeg": "1.05"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.56",
+        "oilTempF": "170.27",
+        "oilPressurePSI": "59.69",
+        "rpm": "1308.3"
+      },
+      "timestamp": "2020-09-22T14:11:12.864Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4579430",
+        "longitude": "-122.1122284",
+        "altitudeFt": "23.8",
+        "groundSpeedKt": "7.41",
+        "pitchDeg": "2.01",
+        "rollDeg": "0.96"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.47",
+        "oilTempF": "170.25",
+        "oilPressurePSI": "59.76",
+        "rpm": "1312.2"
+      },
+      "timestamp": "2020-09-22T14:11:14.097Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4579582",
+        "longitude": "-122.1121979",
+        "altitudeFt": "23.8",
+        "groundSpeedKt": "7.41",
+        "pitchDeg": "2.30",
+        "rollDeg": "0.99"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.49",
+        "oilTempF": "170.22",
+        "oilPressurePSI": "59.78",
+        "rpm": "1312.7"
+      },
+      "timestamp": "2020-09-22T14:11:15.055Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4579849",
+        "longitude": "-122.1121597",
+        "altitudeFt": "21.8",
+        "groundSpeedKt": "7.47",
+        "pitchDeg": "1.65",
+        "rollDeg": "0.54"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.58",
+        "oilTempF": "170.19",
+        "oilPressurePSI": "59.71",
+        "rpm": "1313.4"
+      },
+      "timestamp": "2020-09-22T14:11:15.897Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4580193",
+        "longitude": "-122.1121445",
+        "altitudeFt": "21.8",
+        "groundSpeedKt": "7.51",
+        "pitchDeg": "2.05",
+        "rollDeg": "0.29"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.50",
+        "oilTempF": "170.16",
+        "oilPressurePSI": "59.78",
+        "rpm": "1314.6"
+      },
+      "timestamp": "2020-09-22T14:11:17.016Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4580536",
+        "longitude": "-122.1121216",
+        "altitudeFt": "21.8",
+        "groundSpeedKt": "7.47",
+        "pitchDeg": "0.92",
+        "rollDeg": "0.19"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.54",
+        "oilTempF": "170.12",
+        "oilPressurePSI": "59.77",
+        "rpm": "1317.0"
+      },
+      "timestamp": "2020-09-22T14:11:18.188Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4580841",
+        "longitude": "-122.1121063",
+        "altitudeFt": "21.8",
+        "groundSpeedKt": "7.47",
+        "pitchDeg": "1.42",
+        "rollDeg": "0.78"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.57",
+        "oilTempF": "170.09",
+        "oilPressurePSI": "59.80",
+        "rpm": "1316.4"
+      },
+      "timestamp": "2020-09-22T14:11:19.153Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4581184",
+        "longitude": "-122.1121063",
+        "altitudeFt": "20.8",
+        "groundSpeedKt": "7.26",
+        "pitchDeg": "1.11",
+        "rollDeg": "0.97"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.53",
+        "oilTempF": "170.06",
+        "oilPressurePSI": "59.80",
+        "rpm": "1316.3"
+      },
+      "timestamp": "2020-09-22T14:11:19.802Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4581490",
+        "longitude": "-122.1121063",
+        "altitudeFt": "21.8",
+        "groundSpeedKt": "7.26",
+        "pitchDeg": "1.03",
+        "rollDeg": "1.21"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.57",
+        "oilTempF": "170.01",
+        "oilPressurePSI": "59.80",
+        "rpm": "1317.2"
+      },
+      "timestamp": "2020-09-22T14:11:20.888Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4581795",
+        "longitude": "-122.1121292",
+        "altitudeFt": "21.8",
+        "groundSpeedKt": "7.46",
+        "pitchDeg": "0.18",
+        "rollDeg": "1.01"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.59",
+        "oilTempF": "169.98",
+        "oilPressurePSI": "59.84",
+        "rpm": "1317.4"
+      },
+      "timestamp": "2020-09-22T14:11:21.869Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4582062",
+        "longitude": "-122.1121597",
+        "altitudeFt": "22.8",
+        "groundSpeedKt": "7.51",
+        "pitchDeg": "-1.18",
+        "rollDeg": "0.92"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.51",
+        "oilTempF": "169.93",
+        "oilPressurePSI": "59.75",
+        "rpm": "1316.1"
+      },
+      "timestamp": "2020-09-22T14:11:22.939Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4582253",
+        "longitude": "-122.1121826",
+        "altitudeFt": "21.8",
+        "groundSpeedKt": "6.00",
+        "pitchDeg": "-1.35",
+        "rollDeg": "0.58"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.49",
+        "oilTempF": "169.88",
+        "oilPressurePSI": "59.78",
+        "rpm": "1314.5"
+      },
+      "timestamp": "2020-09-22T14:11:23.848Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4582291",
+        "longitude": "-122.1121826",
+        "altitudeFt": "22.8",
+        "groundSpeedKt": "2.89",
+        "pitchDeg": "-0.67",
+        "rollDeg": "0.38"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.51",
+        "oilTempF": "169.84",
+        "oilPressurePSI": "59.80",
+        "rpm": "1315.2"
+      },
+      "timestamp": "2020-09-22T14:11:24.833Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4582291",
+        "longitude": "-122.1121826",
+        "altitudeFt": "21.8",
+        "groundSpeedKt": "0.00",
+        "pitchDeg": "-0.27",
+        "rollDeg": "0.53"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.46",
+        "oilTempF": "169.80",
+        "oilPressurePSI": "59.83",
+        "rpm": "1317.5"
+      },
+      "timestamp": "2020-09-22T14:11:26.093Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4582253",
+        "longitude": "-122.1121826",
+        "altitudeFt": "22.8",
+        "groundSpeedKt": "0.00",
+        "pitchDeg": "-0.27",
+        "rollDeg": "0.52"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.52",
+        "oilTempF": "169.75",
+        "oilPressurePSI": "59.85",
+        "rpm": "1317.1"
+      },
+      "timestamp": "2020-09-22T14:11:27.004Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4582291",
+        "longitude": "-122.1121826",
+        "altitudeFt": "22.8",
+        "groundSpeedKt": "0.00",
+        "pitchDeg": "0.16",
+        "rollDeg": "0.37"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "4.79",
+        "oilTempF": "169.71",
+        "oilPressurePSI": "60.03",
+        "rpm": "1323.4"
+      },
+      "timestamp": "2020-09-22T14:11:27.827Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4582329",
+        "longitude": "-122.1121826",
+        "altitudeFt": "22.8",
+        "groundSpeedKt": "1.24",
+        "pitchDeg": "0.02",
+        "rollDeg": "0.31"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "10.30",
+        "oilTempF": "169.67",
+        "oilPressurePSI": "66.00",
+        "rpm": "1635.5"
+      },
+      "timestamp": "2020-09-22T14:11:28.826Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4582520",
+        "longitude": "-122.1122131",
+        "altitudeFt": "29.8",
+        "groundSpeedKt": "3.24",
+        "pitchDeg": "0.30",
+        "rollDeg": "0.24"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.81",
+        "oilTempF": "169.63",
+        "oilPressurePSI": "72.26",
+        "rpm": "2048.8"
+      },
+      "timestamp": "2020-09-22T14:11:30.085Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4582825",
+        "longitude": "-122.1122437",
+        "altitudeFt": "34.8",
+        "groundSpeedKt": "6.73",
+        "pitchDeg": "1.02",
+        "rollDeg": "0.34"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.44",
+        "oilTempF": "169.61",
+        "oilPressurePSI": "75.31",
+        "rpm": "2313.3"
+      },
+      "timestamp": "2020-09-22T14:11:30.886Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4583282",
+        "longitude": "-122.1122971",
+        "altitudeFt": "35.8",
+        "groundSpeedKt": "11.37",
+        "pitchDeg": "1.14",
+        "rollDeg": "0.36"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "22.02",
+        "oilTempF": "169.59",
+        "oilPressurePSI": "75.73",
+        "rpm": "2377.9"
+      },
+      "timestamp": "2020-09-22T14:11:32.193Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4583969",
+        "longitude": "-122.1123657",
+        "altitudeFt": "30.8",
+        "groundSpeedKt": "16.24",
+        "pitchDeg": "1.91",
+        "rollDeg": "0.16"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.89",
+        "oilTempF": "169.60",
+        "oilPressurePSI": "75.44",
+        "rpm": "2367.6"
+      },
+      "timestamp": "2020-09-22T14:11:33.007Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4584846",
+        "longitude": "-122.1124420",
+        "altitudeFt": "27.8",
+        "groundSpeedKt": "20.94",
+        "pitchDeg": "1.96",
+        "rollDeg": "-0.03"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.91",
+        "oilTempF": "169.61",
+        "oilPressurePSI": "75.63",
+        "rpm": "2376.4"
+      },
+      "timestamp": "2020-09-22T14:11:34.030Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4585876",
+        "longitude": "-122.1125412",
+        "altitudeFt": "27.8",
+        "groundSpeedKt": "25.46",
+        "pitchDeg": "2.20",
+        "rollDeg": "0.41"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "22.06",
+        "oilTempF": "169.64",
+        "oilPressurePSI": "75.18",
+        "rpm": "2375.7"
+      },
+      "timestamp": "2020-09-22T14:11:35.154Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4587097",
+        "longitude": "-122.1126633",
+        "altitudeFt": "26.8",
+        "groundSpeedKt": "29.93",
+        "pitchDeg": "2.91",
+        "rollDeg": "0.32"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.94",
+        "oilTempF": "169.70",
+        "oilPressurePSI": "75.17",
+        "rpm": "2372.9"
+      },
+      "timestamp": "2020-09-22T14:11:36.118Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4588356",
+        "longitude": "-122.1127853",
+        "altitudeFt": "23.8",
+        "groundSpeedKt": "34.16",
+        "pitchDeg": "3.41",
+        "rollDeg": "0.34"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.91",
+        "oilTempF": "169.75",
+        "oilPressurePSI": "75.10",
+        "rpm": "2372.2"
+      },
+      "timestamp": "2020-09-22T14:11:36.915Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4589844",
+        "longitude": "-122.1129379",
+        "altitudeFt": "21.8",
+        "groundSpeedKt": "38.31",
+        "pitchDeg": "4.01",
+        "rollDeg": "0.30"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.76",
+        "oilTempF": "169.81",
+        "oilPressurePSI": "75.08",
+        "rpm": "2377.4"
+      },
+      "timestamp": "2020-09-22T14:11:38.124Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4591446",
+        "longitude": "-122.1130981",
+        "altitudeFt": "19.8",
+        "groundSpeedKt": "42.10",
+        "pitchDeg": "4.20",
+        "rollDeg": "-0.16"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "22.01",
+        "oilTempF": "169.87",
+        "oilPressurePSI": "75.00",
+        "rpm": "2378.0"
+      },
+      "timestamp": "2020-09-22T14:11:39.066Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4593124",
+        "longitude": "-122.1132812",
+        "altitudeFt": "17.8",
+        "groundSpeedKt": "45.81",
+        "pitchDeg": "4.31",
+        "rollDeg": "0.55"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.85",
+        "oilTempF": "169.92",
+        "oilPressurePSI": "75.15",
+        "rpm": "2380.8"
+      },
+      "timestamp": "2020-09-22T14:11:40.054Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4595032",
+        "longitude": "-122.1134567",
+        "altitudeFt": "16.8",
+        "groundSpeedKt": "49.34",
+        "pitchDeg": "4.11",
+        "rollDeg": "-0.05"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "22.03",
+        "oilTempF": "169.97",
+        "oilPressurePSI": "75.05",
+        "rpm": "2373.3"
+      },
+      "timestamp": "2020-09-22T14:11:40.894Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4597015",
+        "longitude": "-122.1136627",
+        "altitudeFt": "13.8",
+        "groundSpeedKt": "52.77",
+        "pitchDeg": "4.20",
+        "rollDeg": "0.64"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "22.04",
+        "oilTempF": "170.01",
+        "oilPressurePSI": "74.96",
+        "rpm": "2373.9"
+      },
+      "timestamp": "2020-09-22T14:11:42.112Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4599113",
+        "longitude": "-122.1138763",
+        "altitudeFt": "11.8",
+        "groundSpeedKt": "56.01",
+        "pitchDeg": "7.06",
+        "rollDeg": "3.09"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.82",
+        "oilTempF": "170.05",
+        "oilPressurePSI": "74.88",
+        "rpm": "2375.0"
+      },
+      "timestamp": "2020-09-22T14:11:43.125Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4601364",
+        "longitude": "-122.1141129",
+        "altitudeFt": "12.8",
+        "groundSpeedKt": "58.86",
+        "pitchDeg": "8.90",
+        "rollDeg": "7.12"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "22.20",
+        "oilTempF": "170.08",
+        "oilPressurePSI": "74.71",
+        "rpm": "2376.4"
+      },
+      "timestamp": "2020-09-22T14:11:43.889Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4603500",
+        "longitude": "-122.1143341",
+        "altitudeFt": "20.8",
+        "groundSpeedKt": "60.96",
+        "pitchDeg": "9.88",
+        "rollDeg": "6.42"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "22.23",
+        "oilTempF": "170.10",
+        "oilPressurePSI": "74.77",
+        "rpm": "2375.3"
+      },
+      "timestamp": "2020-09-22T14:11:44.940Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4605904",
+        "longitude": "-122.1145630",
+        "altitudeFt": "31.8",
+        "groundSpeedKt": "62.30",
+        "pitchDeg": "10.42",
+        "rollDeg": "5.28"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "22.04",
+        "oilTempF": "170.12",
+        "oilPressurePSI": "74.62",
+        "rpm": "2374.1"
+      },
+      "timestamp": "2020-09-22T14:11:46.148Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4608192",
+        "longitude": "-122.1147690",
+        "altitudeFt": "44.8",
+        "groundSpeedKt": "63.21",
+        "pitchDeg": "11.10",
+        "rollDeg": "5.52"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "22.08",
+        "oilTempF": "170.15",
+        "oilPressurePSI": "74.46",
+        "rpm": "2372.0"
+      },
+      "timestamp": "2020-09-22T14:11:46.977Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4610672",
+        "longitude": "-122.1149979",
+        "altitudeFt": "60.8",
+        "groundSpeedKt": "63.45",
+        "pitchDeg": "12.16",
+        "rollDeg": "4.98"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "22.10",
+        "oilTempF": "170.16",
+        "oilPressurePSI": "74.34",
+        "rpm": "2374.0"
+      },
+      "timestamp": "2020-09-22T14:11:48.148Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4612961",
+        "longitude": "-122.1151886",
+        "altitudeFt": "76.8",
+        "groundSpeedKt": "63.18",
+        "pitchDeg": "14.07",
+        "rollDeg": "4.08"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "22.10",
+        "oilTempF": "170.18",
+        "oilPressurePSI": "74.35",
+        "rpm": "2369.1"
+      },
+      "timestamp": "2020-09-22T14:11:49.122Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4615364",
+        "longitude": "-122.1153946",
+        "altitudeFt": "96.8",
+        "groundSpeedKt": "62.18",
+        "pitchDeg": "14.30",
+        "rollDeg": "3.48"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "22.05",
+        "oilTempF": "170.19",
+        "oilPressurePSI": "74.45",
+        "rpm": "2366.3"
+      },
+      "timestamp": "2020-09-22T14:11:49.899Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4617691",
+        "longitude": "-122.1155853",
+        "altitudeFt": "119.8",
+        "groundSpeedKt": "60.99",
+        "pitchDeg": "14.22",
+        "rollDeg": "3.09"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.71",
+        "oilTempF": "170.20",
+        "oilPressurePSI": "74.14",
+        "rpm": "2370.4"
+      },
+      "timestamp": "2020-09-22T14:11:50.954Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4620018",
+        "longitude": "-122.1157761",
+        "altitudeFt": "142.8",
+        "groundSpeedKt": "60.03",
+        "pitchDeg": "13.70",
+        "rollDeg": "3.15"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.82",
+        "oilTempF": "170.21",
+        "oilPressurePSI": "74.25",
+        "rpm": "2366.4"
+      },
+      "timestamp": "2020-09-22T14:11:52.185Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4622307",
+        "longitude": "-122.1159668",
+        "altitudeFt": "164.8",
+        "groundSpeedKt": "59.30",
+        "pitchDeg": "14.03",
+        "rollDeg": "3.60"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.97",
+        "oilTempF": "170.20",
+        "oilPressurePSI": "74.37",
+        "rpm": "2366.2"
+      },
+      "timestamp": "2020-09-22T14:11:53.189Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4624557",
+        "longitude": "-122.1161499",
+        "altitudeFt": "184.8",
+        "groundSpeedKt": "58.62",
+        "pitchDeg": "10.98",
+        "rollDeg": "2.26"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.62",
+        "oilTempF": "170.18",
+        "oilPressurePSI": "74.13",
+        "rpm": "2363.4"
+      },
+      "timestamp": "2020-09-22T14:11:53.850Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4626846",
+        "longitude": "-122.1163254",
+        "altitudeFt": "204.8",
+        "groundSpeedKt": "58.46",
+        "pitchDeg": "9.56",
+        "rollDeg": "2.63"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.64",
+        "oilTempF": "170.15",
+        "oilPressurePSI": "74.12",
+        "rpm": "2370.9"
+      },
+      "timestamp": "2020-09-22T14:11:55.072Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4629250",
+        "longitude": "-122.1165314",
+        "altitudeFt": "217.8",
+        "groundSpeedKt": "59.27",
+        "pitchDeg": "9.84",
+        "rollDeg": "4.01"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.79",
+        "oilTempF": "170.12",
+        "oilPressurePSI": "74.22",
+        "rpm": "2369.3"
+      },
+      "timestamp": "2020-09-22T14:11:56.122Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4631500",
+        "longitude": "-122.1167068",
+        "altitudeFt": "228.8",
+        "groundSpeedKt": "59.96",
+        "pitchDeg": "9.04",
+        "rollDeg": "1.89"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.63",
+        "oilTempF": "170.08",
+        "oilPressurePSI": "73.95",
+        "rpm": "2372.5"
+      },
+      "timestamp": "2020-09-22T14:11:57.032Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4633904",
+        "longitude": "-122.1168976",
+        "altitudeFt": "242.8",
+        "groundSpeedKt": "60.57",
+        "pitchDeg": "7.64",
+        "rollDeg": "1.85"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.61",
+        "oilTempF": "170.04",
+        "oilPressurePSI": "74.04",
+        "rpm": "2368.5"
+      },
+      "timestamp": "2020-09-22T14:11:57.837Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4636307",
+        "longitude": "-122.1170883",
+        "altitudeFt": "253.8",
+        "groundSpeedKt": "61.59",
+        "pitchDeg": "6.48",
+        "rollDeg": "2.19"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.49",
+        "oilTempF": "169.98",
+        "oilPressurePSI": "73.72",
+        "rpm": "2373.1"
+      },
+      "timestamp": "2020-09-22T14:11:58.800Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4638786",
+        "longitude": "-122.1172943",
+        "altitudeFt": "260.8",
+        "groundSpeedKt": "62.91",
+        "pitchDeg": "7.14",
+        "rollDeg": "3.47"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.46",
+        "oilTempF": "169.93",
+        "oilPressurePSI": "74.04",
+        "rpm": "2372.6"
+      },
+      "timestamp": "2020-09-22T14:11:59.854Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4641190",
+        "longitude": "-122.1175003",
+        "altitudeFt": "268.8",
+        "groundSpeedKt": "64.11",
+        "pitchDeg": "8.13",
+        "rollDeg": "4.23"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.74",
+        "oilTempF": "169.87",
+        "oilPressurePSI": "73.86",
+        "rpm": "2372.6"
+      },
+      "timestamp": "2020-09-22T14:12:00.834Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4643860",
+        "longitude": "-122.1177063",
+        "altitudeFt": "276.8",
+        "groundSpeedKt": "64.96",
+        "pitchDeg": "8.65",
+        "rollDeg": "4.59"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.32",
+        "oilTempF": "169.81",
+        "oilPressurePSI": "73.77",
+        "rpm": "2370.7"
+      },
+      "timestamp": "2020-09-22T14:12:02.189Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4646454",
+        "longitude": "-122.1178970",
+        "altitudeFt": "288.8",
+        "groundSpeedKt": "65.40",
+        "pitchDeg": "9.27",
+        "rollDeg": "3.58"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.59",
+        "oilTempF": "169.75",
+        "oilPressurePSI": "73.84",
+        "rpm": "2371.1"
+      },
+      "timestamp": "2020-09-22T14:12:02.893Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4649124",
+        "longitude": "-122.1180878",
+        "altitudeFt": "302.8",
+        "groundSpeedKt": "65.65",
+        "pitchDeg": "8.58",
+        "rollDeg": "1.38"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.48",
+        "oilTempF": "169.70",
+        "oilPressurePSI": "73.83",
+        "rpm": "2373.5"
+      },
+      "timestamp": "2020-09-22T14:12:03.991Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4651756",
+        "longitude": "-122.1182785",
+        "altitudeFt": "319.8",
+        "groundSpeedKt": "65.85",
+        "pitchDeg": "9.64",
+        "rollDeg": "3.05"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.19",
+        "oilTempF": "169.64",
+        "oilPressurePSI": "73.85",
+        "rpm": "2369.8"
+      },
+      "timestamp": "2020-09-22T14:12:04.836Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4654427",
+        "longitude": "-122.1184692",
+        "altitudeFt": "332.8",
+        "groundSpeedKt": "66.10",
+        "pitchDeg": "9.87",
+        "rollDeg": "3.05"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.32",
+        "oilTempF": "169.58",
+        "oilPressurePSI": "73.68",
+        "rpm": "2374.1"
+      },
+      "timestamp": "2020-09-22T14:12:05.833Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4657097",
+        "longitude": "-122.1186600",
+        "altitudeFt": "348.8",
+        "groundSpeedKt": "65.95",
+        "pitchDeg": "9.76",
+        "rollDeg": "0.93"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.39",
+        "oilTempF": "169.51",
+        "oilPressurePSI": "73.55",
+        "rpm": "2371.6"
+      },
+      "timestamp": "2020-09-22T14:12:07.190Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4659805",
+        "longitude": "-122.1188660",
+        "altitudeFt": "364.8",
+        "groundSpeedKt": "65.70",
+        "pitchDeg": "9.69",
+        "rollDeg": "0.42"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.14",
+        "oilTempF": "169.45",
+        "oilPressurePSI": "73.39",
+        "rpm": "2361.4"
+      },
+      "timestamp": "2020-09-22T14:12:07.855Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4662437",
+        "longitude": "-122.1190567",
+        "altitudeFt": "379.8",
+        "groundSpeedKt": "65.62",
+        "pitchDeg": "9.48",
+        "rollDeg": "3.21"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.23",
+        "oilTempF": "169.38",
+        "oilPressurePSI": "73.43",
+        "rpm": "2372.2"
+      },
+      "timestamp": "2020-09-22T14:12:09.190Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4664993",
+        "longitude": "-122.1192322",
+        "altitudeFt": "396.8",
+        "groundSpeedKt": "65.57",
+        "pitchDeg": "10.71",
+        "rollDeg": "4.77"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.28",
+        "oilTempF": "169.32",
+        "oilPressurePSI": "73.46",
+        "rpm": "2368.3"
+      },
+      "timestamp": "2020-09-22T14:12:10.005Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4667625",
+        "longitude": "-122.1194153",
+        "altitudeFt": "411.8",
+        "groundSpeedKt": "65.40",
+        "pitchDeg": "11.51",
+        "rollDeg": "2.32"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.40",
+        "oilTempF": "169.26",
+        "oilPressurePSI": "73.39",
+        "rpm": "2367.2"
+      },
+      "timestamp": "2020-09-22T14:12:11.192Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4670448",
+        "longitude": "-122.1195908",
+        "altitudeFt": "431.8",
+        "groundSpeedKt": "64.78",
+        "pitchDeg": "11.79",
+        "rollDeg": "0.87"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.07",
+        "oilTempF": "169.20",
+        "oilPressurePSI": "73.41",
+        "rpm": "2362.4"
+      },
+      "timestamp": "2020-09-22T14:12:11.938Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4673080",
+        "longitude": "-122.1197510",
+        "altitudeFt": "451.8",
+        "groundSpeedKt": "64.07",
+        "pitchDeg": "10.76",
+        "rollDeg": "-0.37"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.95",
+        "oilTempF": "169.14",
+        "oilPressurePSI": "73.20",
+        "rpm": "2368.2"
+      },
+      "timestamp": "2020-09-22T14:12:12.841Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4675560",
+        "longitude": "-122.1199341",
+        "altitudeFt": "469.8",
+        "groundSpeedKt": "63.76",
+        "pitchDeg": "11.10",
+        "rollDeg": "-0.21"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.01",
+        "oilTempF": "169.08",
+        "oilPressurePSI": "73.15",
+        "rpm": "2363.3"
+      },
+      "timestamp": "2020-09-22T14:12:14.073Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4678154",
+        "longitude": "-122.1200943",
+        "altitudeFt": "487.8",
+        "groundSpeedKt": "63.54",
+        "pitchDeg": "10.94",
+        "rollDeg": "0.35"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.99",
+        "oilTempF": "169.01",
+        "oilPressurePSI": "73.16",
+        "rpm": "2371.2"
+      },
+      "timestamp": "2020-09-22T14:12:15.196Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4680710",
+        "longitude": "-122.1202698",
+        "altitudeFt": "505.8",
+        "groundSpeedKt": "63.29",
+        "pitchDeg": "10.89",
+        "rollDeg": "1.57"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.14",
+        "oilTempF": "168.95",
+        "oilPressurePSI": "73.11",
+        "rpm": "2370.3"
+      },
+      "timestamp": "2020-09-22T14:12:16.090Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4683266",
+        "longitude": "-122.1204529",
+        "altitudeFt": "522.8",
+        "groundSpeedKt": "63.04",
+        "pitchDeg": "10.33",
+        "rollDeg": "0.82"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.04",
+        "oilTempF": "168.88",
+        "oilPressurePSI": "73.04",
+        "rpm": "2365.5"
+      },
+      "timestamp": "2020-09-22T14:12:16.816Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4685860",
+        "longitude": "-122.1206284",
+        "altitudeFt": "541.8",
+        "groundSpeedKt": "62.83",
+        "pitchDeg": "10.29",
+        "rollDeg": "0.93"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.15",
+        "oilTempF": "168.82",
+        "oilPressurePSI": "72.94",
+        "rpm": "2367.0"
+      },
+      "timestamp": "2020-09-22T14:12:18.118Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4688416",
+        "longitude": "-122.1208038",
+        "altitudeFt": "558.8",
+        "groundSpeedKt": "62.88",
+        "pitchDeg": "9.89",
+        "rollDeg": "1.03"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.14",
+        "oilTempF": "168.77",
+        "oilPressurePSI": "72.96",
+        "rpm": "2365.3"
+      },
+      "timestamp": "2020-09-22T14:12:18.864Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4691238",
+        "longitude": "-122.1209946",
+        "altitudeFt": "578.8",
+        "groundSpeedKt": "63.00",
+        "pitchDeg": "8.96",
+        "rollDeg": "0.14"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.00",
+        "oilTempF": "168.72",
+        "oilPressurePSI": "72.93",
+        "rpm": "2365.7"
+      },
+      "timestamp": "2020-09-22T14:12:19.804Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4696007",
+        "longitude": "-122.1213379",
+        "altitudeFt": "605.8",
+        "groundSpeedKt": "63.81",
+        "pitchDeg": "8.57",
+        "rollDeg": "2.13"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.01",
+        "oilTempF": "168.63",
+        "oilPressurePSI": "72.79",
+        "rpm": "2372.5"
+      },
+      "timestamp": "2020-09-22T14:12:21.952Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4698715",
+        "longitude": "-122.1215286",
+        "altitudeFt": "617.8",
+        "groundSpeedKt": "64.14",
+        "pitchDeg": "7.67",
+        "rollDeg": "2.50"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.14",
+        "oilTempF": "168.60",
+        "oilPressurePSI": "72.86",
+        "rpm": "2373.4"
+      },
+      "timestamp": "2020-09-22T14:12:23.099Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4701347",
+        "longitude": "-122.1217041",
+        "altitudeFt": "630.8",
+        "groundSpeedKt": "64.67",
+        "pitchDeg": "7.22",
+        "rollDeg": "3.05"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.04",
+        "oilTempF": "168.56",
+        "oilPressurePSI": "72.93",
+        "rpm": "2372.3"
+      },
+      "timestamp": "2020-09-22T14:12:24.023Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4704056",
+        "longitude": "-122.1219025",
+        "altitudeFt": "642.8",
+        "groundSpeedKt": "65.40",
+        "pitchDeg": "7.09",
+        "rollDeg": "1.43"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.00",
+        "oilTempF": "168.53",
+        "oilPressurePSI": "72.90",
+        "rpm": "2368.9"
+      },
+      "timestamp": "2020-09-22T14:12:24.867Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4706726",
+        "longitude": "-122.1220779",
+        "altitudeFt": "653.8",
+        "groundSpeedKt": "66.14",
+        "pitchDeg": "6.78",
+        "rollDeg": "3.20"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.89",
+        "oilTempF": "168.49",
+        "oilPressurePSI": "72.78",
+        "rpm": "2373.2"
+      },
+      "timestamp": "2020-09-22T14:12:25.878Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4709511",
+        "longitude": "-122.1222534",
+        "altitudeFt": "663.8",
+        "groundSpeedKt": "66.94",
+        "pitchDeg": "6.88",
+        "rollDeg": "3.05"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.05",
+        "oilTempF": "168.46",
+        "oilPressurePSI": "72.63",
+        "rpm": "2367.9"
+      },
+      "timestamp": "2020-09-22T14:12:26.966Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4712296",
+        "longitude": "-122.1224442",
+        "altitudeFt": "672.8",
+        "groundSpeedKt": "67.73",
+        "pitchDeg": "7.04",
+        "rollDeg": "2.77"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.04",
+        "oilTempF": "168.43",
+        "oilPressurePSI": "72.70",
+        "rpm": "2375.4"
+      },
+      "timestamp": "2020-09-22T14:12:27.930Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4715271",
+        "longitude": "-122.1226196",
+        "altitudeFt": "681.8",
+        "groundSpeedKt": "68.41",
+        "pitchDeg": "7.22",
+        "rollDeg": "4.35"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.03",
+        "oilTempF": "168.39",
+        "oilPressurePSI": "72.62",
+        "rpm": "2368.2"
+      },
+      "timestamp": "2020-09-22T14:12:29.010Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4718170",
+        "longitude": "-122.1228027",
+        "altitudeFt": "692.8",
+        "groundSpeedKt": "68.92",
+        "pitchDeg": "7.33",
+        "rollDeg": "0.40"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.87",
+        "oilTempF": "168.36",
+        "oilPressurePSI": "72.46",
+        "rpm": "2367.9"
+      },
+      "timestamp": "2020-09-22T14:12:30.144Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4721184",
+        "longitude": "-122.1229935",
+        "altitudeFt": "703.8",
+        "groundSpeedKt": "69.33",
+        "pitchDeg": "7.38",
+        "rollDeg": "0.40"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.06",
+        "oilTempF": "168.33",
+        "oilPressurePSI": "72.45",
+        "rpm": "2372.5"
+      },
+      "timestamp": "2020-09-22T14:12:31.149Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4726791",
+        "longitude": "-122.1233368",
+        "altitudeFt": "724.8",
+        "groundSpeedKt": "70.07",
+        "pitchDeg": "7.25",
+        "rollDeg": "1.32"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.89",
+        "oilTempF": "168.28",
+        "oilPressurePSI": "72.36",
+        "rpm": "2372.0"
+      },
+      "timestamp": "2020-09-22T14:12:32.950Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4729729",
+        "longitude": "-122.1235123",
+        "altitudeFt": "736.8",
+        "groundSpeedKt": "70.45",
+        "pitchDeg": "7.26",
+        "rollDeg": "1.76"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.88",
+        "oilTempF": "168.26",
+        "oilPressurePSI": "72.37",
+        "rpm": "2373.6"
+      },
+      "timestamp": "2020-09-22T14:12:33.961Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4732704",
+        "longitude": "-122.1237030",
+        "altitudeFt": "749.8",
+        "groundSpeedKt": "70.80",
+        "pitchDeg": "7.66",
+        "rollDeg": "1.82"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.04",
+        "oilTempF": "168.24",
+        "oilPressurePSI": "72.34",
+        "rpm": "2370.2"
+      },
+      "timestamp": "2020-09-22T14:12:35.163Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4735680",
+        "longitude": "-122.1238785",
+        "altitudeFt": "763.8",
+        "groundSpeedKt": "71.04",
+        "pitchDeg": "7.61",
+        "rollDeg": "2.08"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.97",
+        "oilTempF": "168.22",
+        "oilPressurePSI": "72.24",
+        "rpm": "2370.9"
+      },
+      "timestamp": "2020-09-22T14:12:36.061Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4738655",
+        "longitude": "-122.1240540",
+        "altitudeFt": "777.8",
+        "groundSpeedKt": "71.17",
+        "pitchDeg": "7.25",
+        "rollDeg": "1.41"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.82",
+        "oilTempF": "168.21",
+        "oilPressurePSI": "72.25",
+        "rpm": "2363.5"
+      },
+      "timestamp": "2020-09-22T14:12:36.997Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4741631",
+        "longitude": "-122.1242371",
+        "altitudeFt": "792.8",
+        "groundSpeedKt": "71.45",
+        "pitchDeg": "6.93",
+        "rollDeg": "0.63"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.78",
+        "oilTempF": "168.20",
+        "oilPressurePSI": "72.25",
+        "rpm": "2366.6"
+      },
+      "timestamp": "2020-09-22T14:12:38.168Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4744759",
+        "longitude": "-122.1244278",
+        "altitudeFt": "806.8",
+        "groundSpeedKt": "71.77",
+        "pitchDeg": "7.05",
+        "rollDeg": "0.76"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.11",
+        "oilTempF": "168.18",
+        "oilPressurePSI": "72.33",
+        "rpm": "2373.4"
+      },
+      "timestamp": "2020-09-22T14:12:39.074Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4747543",
+        "longitude": "-122.1246033",
+        "altitudeFt": "819.8",
+        "groundSpeedKt": "72.17",
+        "pitchDeg": "7.09",
+        "rollDeg": "1.20"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.01",
+        "oilTempF": "168.18",
+        "oilPressurePSI": "72.29",
+        "rpm": "2369.3"
+      },
+      "timestamp": "2020-09-22T14:12:40.060Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4750710",
+        "longitude": "-122.1247940",
+        "altitudeFt": "832.8",
+        "groundSpeedKt": "72.58",
+        "pitchDeg": "7.02",
+        "rollDeg": "1.43"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.90",
+        "oilTempF": "168.17",
+        "oilPressurePSI": "72.18",
+        "rpm": "2371.6"
+      },
+      "timestamp": "2020-09-22T14:12:41.188Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4753761",
+        "longitude": "-122.1249695",
+        "altitudeFt": "845.8",
+        "groundSpeedKt": "73.02",
+        "pitchDeg": "6.89",
+        "rollDeg": "1.80"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.86",
+        "oilTempF": "168.16",
+        "oilPressurePSI": "72.11",
+        "rpm": "2371.1"
+      },
+      "timestamp": "2020-09-22T14:12:42.060Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4756813",
+        "longitude": "-122.1251602",
+        "altitudeFt": "858.8",
+        "groundSpeedKt": "73.42",
+        "pitchDeg": "6.89",
+        "rollDeg": "2.29"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.90",
+        "oilTempF": "168.14",
+        "oilPressurePSI": "72.02",
+        "rpm": "2370.7"
+      },
+      "timestamp": "2020-09-22T14:12:43.191Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4759903",
+        "longitude": "-122.1253510",
+        "altitudeFt": "871.8",
+        "groundSpeedKt": "73.80",
+        "pitchDeg": "6.87",
+        "rollDeg": "1.53"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "21.13",
+        "oilTempF": "168.13",
+        "oilPressurePSI": "71.81",
+        "rpm": "2371.2"
+      },
+      "timestamp": "2020-09-22T14:12:43.880Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4763031",
+        "longitude": "-122.1255341",
+        "altitudeFt": "883.8",
+        "groundSpeedKt": "74.14",
+        "pitchDeg": "6.78",
+        "rollDeg": "1.43"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.77",
+        "oilTempF": "168.13",
+        "oilPressurePSI": "72.12",
+        "rpm": "2373.8"
+      },
+      "timestamp": "2020-09-22T14:12:44.832Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4766273",
+        "longitude": "-122.1257401",
+        "altitudeFt": "898.8",
+        "groundSpeedKt": "74.50",
+        "pitchDeg": "6.93",
+        "rollDeg": "1.65"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.68",
+        "oilTempF": "168.13",
+        "oilPressurePSI": "72.10",
+        "rpm": "2371.4"
+      },
+      "timestamp": "2020-09-22T14:12:46.113Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4769211",
+        "longitude": "-122.1259003",
+        "altitudeFt": "911.8",
+        "groundSpeedKt": "74.86",
+        "pitchDeg": "6.88",
+        "rollDeg": "0.07"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.92",
+        "oilTempF": "168.13",
+        "oilPressurePSI": "71.82",
+        "rpm": "2367.2"
+      },
+      "timestamp": "2020-09-22T14:12:47.100Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4772453",
+        "longitude": "-122.1261063",
+        "altitudeFt": "924.8",
+        "groundSpeedKt": "75.15",
+        "pitchDeg": "6.88",
+        "rollDeg": "0.51"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.88",
+        "oilTempF": "168.13",
+        "oilPressurePSI": "71.82",
+        "rpm": "2368.0"
+      },
+      "timestamp": "2020-09-22T14:12:48.133Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4775581",
+        "longitude": "-122.1262970",
+        "altitudeFt": "938.8",
+        "groundSpeedKt": "75.45",
+        "pitchDeg": "6.97",
+        "rollDeg": "1.26"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.82",
+        "oilTempF": "168.14",
+        "oilPressurePSI": "71.85",
+        "rpm": "2369.8"
+      },
+      "timestamp": "2020-09-22T14:12:49.162Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4778786",
+        "longitude": "-122.1264877",
+        "altitudeFt": "952.8",
+        "groundSpeedKt": "75.70",
+        "pitchDeg": "7.00",
+        "rollDeg": "1.69"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.87",
+        "oilTempF": "168.15",
+        "oilPressurePSI": "71.71",
+        "rpm": "2366.9"
+      },
+      "timestamp": "2020-09-22T14:12:49.926Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4781952",
+        "longitude": "-122.1266785",
+        "altitudeFt": "966.8",
+        "groundSpeedKt": "75.96",
+        "pitchDeg": "6.99",
+        "rollDeg": "0.90"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.85",
+        "oilTempF": "168.17",
+        "oilPressurePSI": "71.84",
+        "rpm": "2367.9"
+      },
+      "timestamp": "2020-09-22T14:12:50.967Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4785309",
+        "longitude": "-122.1268692",
+        "altitudeFt": "980.8",
+        "groundSpeedKt": "76.21",
+        "pitchDeg": "6.95",
+        "rollDeg": "1.19"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.69",
+        "oilTempF": "168.18",
+        "oilPressurePSI": "71.69",
+        "rpm": "2371.0"
+      },
+      "timestamp": "2020-09-22T14:12:51.884Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4788475",
+        "longitude": "-122.1270599",
+        "altitudeFt": "994.8",
+        "groundSpeedKt": "76.48",
+        "pitchDeg": "6.89",
+        "rollDeg": "1.21"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.79",
+        "oilTempF": "168.20",
+        "oilPressurePSI": "71.73",
+        "rpm": "2378.3"
+      },
+      "timestamp": "2020-09-22T14:12:52.897Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4791489",
+        "longitude": "-122.1272430",
+        "altitudeFt": "1006.8",
+        "groundSpeedKt": "76.78",
+        "pitchDeg": "6.77",
+        "rollDeg": "0.87"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.81",
+        "oilTempF": "168.22",
+        "oilPressurePSI": "71.69",
+        "rpm": "2371.9"
+      },
+      "timestamp": "2020-09-22T14:12:54.057Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4794807",
+        "longitude": "-122.1274338",
+        "altitudeFt": "1019.8",
+        "groundSpeedKt": "77.09",
+        "pitchDeg": "6.67",
+        "rollDeg": "-0.30"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.81",
+        "oilTempF": "168.23",
+        "oilPressurePSI": "71.60",
+        "rpm": "2370.2"
+      },
+      "timestamp": "2020-09-22T14:12:55.018Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4798050",
+        "longitude": "-122.1276245",
+        "altitudeFt": "1031.8",
+        "groundSpeedKt": "77.44",
+        "pitchDeg": "6.71",
+        "rollDeg": "-1.63"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.84",
+        "oilTempF": "168.26",
+        "oilPressurePSI": "71.66",
+        "rpm": "2370.8"
+      },
+      "timestamp": "2020-09-22T14:12:56.199Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4801331",
+        "longitude": "-122.1278305",
+        "altitudeFt": "1042.8",
+        "groundSpeedKt": "77.73",
+        "pitchDeg": "6.93",
+        "rollDeg": "-0.96"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.85",
+        "oilTempF": "168.28",
+        "oilPressurePSI": "71.63",
+        "rpm": "2367.8"
+      },
+      "timestamp": "2020-09-22T14:12:56.920Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4804573",
+        "longitude": "-122.1280212",
+        "altitudeFt": "1052.8",
+        "groundSpeedKt": "77.94",
+        "pitchDeg": "6.43",
+        "rollDeg": "1.09"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.85",
+        "oilTempF": "168.30",
+        "oilPressurePSI": "71.53",
+        "rpm": "2369.5"
+      },
+      "timestamp": "2020-09-22T14:12:58.017Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4807854",
+        "longitude": "-122.1282196",
+        "altitudeFt": "1065.8",
+        "groundSpeedKt": "78.28",
+        "pitchDeg": "5.70",
+        "rollDeg": "1.18"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.81",
+        "oilTempF": "168.33",
+        "oilPressurePSI": "71.66",
+        "rpm": "2370.0"
+      },
+      "timestamp": "2020-09-22T14:12:59.166Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4811096",
+        "longitude": "-122.1284180",
+        "altitudeFt": "1077.8",
+        "groundSpeedKt": "78.28",
+        "pitchDeg": "5.41",
+        "rollDeg": "1.14"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.71",
+        "oilTempF": "168.35",
+        "oilPressurePSI": "71.38",
+        "rpm": "2374.5"
+      },
+      "timestamp": "2020-09-22T14:13:00.156Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4814568",
+        "longitude": "-122.1286163",
+        "altitudeFt": "1087.8",
+        "groundSpeedKt": "78.82",
+        "pitchDeg": "5.45",
+        "rollDeg": "0.82"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.76",
+        "oilTempF": "168.38",
+        "oilPressurePSI": "71.58",
+        "rpm": "2370.2"
+      },
+      "timestamp": "2020-09-22T14:13:00.848Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4817772",
+        "longitude": "-122.1288071",
+        "altitudeFt": "1096.8",
+        "groundSpeedKt": "80.08",
+        "pitchDeg": "5.60",
+        "rollDeg": "0.88"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.93",
+        "oilTempF": "168.41",
+        "oilPressurePSI": "71.45",
+        "rpm": "2377.1"
+      },
+      "timestamp": "2020-09-22T14:13:01.954Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4821243",
+        "longitude": "-122.1290131",
+        "altitudeFt": "1106.8",
+        "groundSpeedKt": "80.58",
+        "pitchDeg": "5.70",
+        "rollDeg": "0.67"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.72",
+        "oilTempF": "168.44",
+        "oilPressurePSI": "71.46",
+        "rpm": "2375.1"
+      },
+      "timestamp": "2020-09-22T14:13:03.121Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4824677",
+        "longitude": "-122.1292191",
+        "altitudeFt": "1116.8",
+        "groundSpeedKt": "81.00",
+        "pitchDeg": "5.79",
+        "rollDeg": "1.09"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.68",
+        "oilTempF": "168.47",
+        "oilPressurePSI": "71.30",
+        "rpm": "2373.1"
+      },
+      "timestamp": "2020-09-22T14:13:03.965Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4827957",
+        "longitude": "-122.1294250",
+        "altitudeFt": "1126.8",
+        "groundSpeedKt": "81.38",
+        "pitchDeg": "5.97",
+        "rollDeg": "0.97"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.73",
+        "oilTempF": "168.51",
+        "oilPressurePSI": "71.28",
+        "rpm": "2367.7"
+      },
+      "timestamp": "2020-09-22T14:13:05.156Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4831467",
+        "longitude": "-122.1296463",
+        "altitudeFt": "1137.8",
+        "groundSpeedKt": "81.73",
+        "pitchDeg": "6.10",
+        "rollDeg": "0.45"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.62",
+        "oilTempF": "168.55",
+        "oilPressurePSI": "71.33",
+        "rpm": "2371.5"
+      },
+      "timestamp": "2020-09-22T14:13:05.929Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4834862",
+        "longitude": "-122.1298523",
+        "altitudeFt": "1148.8",
+        "groundSpeedKt": "81.73",
+        "pitchDeg": "6.36",
+        "rollDeg": "1.26"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.97",
+        "oilTempF": "168.59",
+        "oilPressurePSI": "71.29",
+        "rpm": "2377.2"
+      },
+      "timestamp": "2020-09-22T14:13:06.877Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4838448",
+        "longitude": "-122.1300659",
+        "altitudeFt": "1160.8",
+        "groundSpeedKt": "82.03",
+        "pitchDeg": "6.41",
+        "rollDeg": "1.12"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.50",
+        "oilTempF": "168.64",
+        "oilPressurePSI": "71.28",
+        "rpm": "2374.0"
+      },
+      "timestamp": "2020-09-22T14:13:07.893Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4842033",
+        "longitude": "-122.1302872",
+        "altitudeFt": "1174.8",
+        "groundSpeedKt": "82.14",
+        "pitchDeg": "5.92",
+        "rollDeg": "0.54"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.54",
+        "oilTempF": "168.68",
+        "oilPressurePSI": "71.22",
+        "rpm": "2374.5"
+      },
+      "timestamp": "2020-09-22T14:13:09.084Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4848633",
+        "longitude": "-122.1306839",
+        "altitudeFt": "1201.8",
+        "groundSpeedKt": "82.59",
+        "pitchDeg": "4.58",
+        "rollDeg": "-0.31"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.60",
+        "oilTempF": "168.76",
+        "oilPressurePSI": "71.13",
+        "rpm": "2378.0"
+      },
+      "timestamp": "2020-09-22T14:13:10.956Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4852104",
+        "longitude": "-122.1308975",
+        "altitudeFt": "1210.8",
+        "groundSpeedKt": "83.02",
+        "pitchDeg": "4.45",
+        "rollDeg": "0.98"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.62",
+        "oilTempF": "168.81",
+        "oilPressurePSI": "70.95",
+        "rpm": "2367.6"
+      },
+      "timestamp": "2020-09-22T14:13:11.911Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4855576",
+        "longitude": "-122.1311188",
+        "altitudeFt": "1217.8",
+        "groundSpeedKt": "83.69",
+        "pitchDeg": "4.14",
+        "rollDeg": "-0.05"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.63",
+        "oilTempF": "168.85",
+        "oilPressurePSI": "70.91",
+        "rpm": "2369.3"
+      },
+      "timestamp": "2020-09-22T14:13:13.005Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4859009",
+        "longitude": "-122.1313400",
+        "altitudeFt": "1226.8",
+        "groundSpeedKt": "84.32",
+        "pitchDeg": "3.79",
+        "rollDeg": "0.64"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.47",
+        "oilTempF": "168.90",
+        "oilPressurePSI": "71.16",
+        "rpm": "2372.0"
+      },
+      "timestamp": "2020-09-22T14:13:14.133Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4862595",
+        "longitude": "-122.1315536",
+        "altitudeFt": "1235.8",
+        "groundSpeedKt": "85.02",
+        "pitchDeg": "3.77",
+        "rollDeg": "1.59"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.61",
+        "oilTempF": "168.96",
+        "oilPressurePSI": "71.13",
+        "rpm": "2371.6"
+      },
+      "timestamp": "2020-09-22T14:13:15.116Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4866371",
+        "longitude": "-122.1318054",
+        "altitudeFt": "1243.8",
+        "groundSpeedKt": "85.83",
+        "pitchDeg": "3.77",
+        "rollDeg": "2.24"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.66",
+        "oilTempF": "169.01",
+        "oilPressurePSI": "70.94",
+        "rpm": "2375.4"
+      },
+      "timestamp": "2020-09-22T14:13:16.137Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4869804",
+        "longitude": "-122.1320038",
+        "altitudeFt": "1251.8",
+        "groundSpeedKt": "86.61",
+        "pitchDeg": "3.91",
+        "rollDeg": "5.78"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.57",
+        "oilTempF": "169.06",
+        "oilPressurePSI": "71.03",
+        "rpm": "2375.2"
+      },
+      "timestamp": "2020-09-22T14:13:17.022Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4873466",
+        "longitude": "-122.1322403",
+        "altitudeFt": "1260.8",
+        "groundSpeedKt": "87.37",
+        "pitchDeg": "4.32",
+        "rollDeg": "8.79"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.63",
+        "oilTempF": "169.11",
+        "oilPressurePSI": "70.95",
+        "rpm": "2372.4"
+      },
+      "timestamp": "2020-09-22T14:13:18.188Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4877243",
+        "longitude": "-122.1324463",
+        "altitudeFt": "1269.8",
+        "groundSpeedKt": "88.15",
+        "pitchDeg": "4.44",
+        "rollDeg": "11.71"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.50",
+        "oilTempF": "169.16",
+        "oilPressurePSI": "70.86",
+        "rpm": "2373.3"
+      },
+      "timestamp": "2020-09-22T14:13:19.122Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4881096",
+        "longitude": "-122.1326523",
+        "altitudeFt": "1278.8",
+        "groundSpeedKt": "88.96",
+        "pitchDeg": "4.70",
+        "rollDeg": "12.68"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.57",
+        "oilTempF": "169.21",
+        "oilPressurePSI": "70.79",
+        "rpm": "2376.1"
+      },
+      "timestamp": "2020-09-22T14:13:19.831Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4885139",
+        "longitude": "-122.1328278",
+        "altitudeFt": "1288.8",
+        "groundSpeedKt": "89.77",
+        "pitchDeg": "4.88",
+        "rollDeg": "12.56"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.75",
+        "oilTempF": "169.26",
+        "oilPressurePSI": "70.80",
+        "rpm": "2373.5"
+      },
+      "timestamp": "2020-09-22T14:13:21.133Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4889297",
+        "longitude": "-122.1329803",
+        "altitudeFt": "1299.8",
+        "groundSpeedKt": "90.51",
+        "pitchDeg": "4.95",
+        "rollDeg": "13.06"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.79",
+        "oilTempF": "169.31",
+        "oilPressurePSI": "70.68",
+        "rpm": "2373.2"
+      },
+      "timestamp": "2020-09-22T14:13:22.198Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4897385",
+        "longitude": "-122.1332092",
+        "altitudeFt": "1322.8",
+        "groundSpeedKt": "91.88",
+        "pitchDeg": "5.24",
+        "rollDeg": "12.93"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.60",
+        "oilTempF": "169.41",
+        "oilPressurePSI": "70.69",
+        "rpm": "2370.9"
+      },
+      "timestamp": "2020-09-22T14:13:23.906Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4901619",
+        "longitude": "-122.1332932",
+        "altitudeFt": "1336.8",
+        "groundSpeedKt": "92.47",
+        "pitchDeg": "5.24",
+        "rollDeg": "13.50"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.52",
+        "oilTempF": "169.45",
+        "oilPressurePSI": "70.69",
+        "rpm": "2372.7"
+      },
+      "timestamp": "2020-09-22T14:13:25.018Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4905930",
+        "longitude": "-122.1333618",
+        "altitudeFt": "1350.8",
+        "groundSpeedKt": "93.06",
+        "pitchDeg": "5.10",
+        "rollDeg": "14.80"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.44",
+        "oilTempF": "169.51",
+        "oilPressurePSI": "70.66",
+        "rpm": "2371.9"
+      },
+      "timestamp": "2020-09-22T14:13:26.136Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4910278",
+        "longitude": "-122.1334000",
+        "altitudeFt": "1361.8",
+        "groundSpeedKt": "93.72",
+        "pitchDeg": "4.81",
+        "rollDeg": "14.90"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.57",
+        "oilTempF": "169.56",
+        "oilPressurePSI": "70.59",
+        "rpm": "2367.4"
+      },
+      "timestamp": "2020-09-22T14:13:26.998Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4914703",
+        "longitude": "-122.1334000",
+        "altitudeFt": "1372.8",
+        "groundSpeedKt": "94.47",
+        "pitchDeg": "4.71",
+        "rollDeg": "14.58"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.60",
+        "oilTempF": "169.60",
+        "oilPressurePSI": "70.60",
+        "rpm": "2370.4"
+      },
+      "timestamp": "2020-09-22T14:13:27.823Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4919128",
+        "longitude": "-122.1333847",
+        "altitudeFt": "1383.8",
+        "groundSpeedKt": "95.34",
+        "pitchDeg": "4.64",
+        "rollDeg": "14.03"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.70",
+        "oilTempF": "169.65",
+        "oilPressurePSI": "70.45",
+        "rpm": "2369.8"
+      },
+      "timestamp": "2020-09-22T14:13:29.156Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4923630",
+        "longitude": "-122.1333313",
+        "altitudeFt": "1394.8",
+        "groundSpeedKt": "96.15",
+        "pitchDeg": "4.64",
+        "rollDeg": "14.05"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.58",
+        "oilTempF": "169.70",
+        "oilPressurePSI": "70.51",
+        "rpm": "2377.3"
+      },
+      "timestamp": "2020-09-22T14:13:29.905Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4928093",
+        "longitude": "-122.1332626",
+        "altitudeFt": "1403.8",
+        "groundSpeedKt": "96.94",
+        "pitchDeg": "4.53",
+        "rollDeg": "13.90"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.33",
+        "oilTempF": "169.76",
+        "oilPressurePSI": "70.37",
+        "rpm": "2368.4"
+      },
+      "timestamp": "2020-09-22T14:13:31.114Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4932594",
+        "longitude": "-122.1331711",
+        "altitudeFt": "1413.8",
+        "groundSpeedKt": "97.81",
+        "pitchDeg": "4.45",
+        "rollDeg": "14.36"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.41",
+        "oilTempF": "169.81",
+        "oilPressurePSI": "70.55",
+        "rpm": "2376.0"
+      },
+      "timestamp": "2020-09-22T14:13:31.833Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4937057",
+        "longitude": "-122.1330490",
+        "altitudeFt": "1423.8",
+        "groundSpeedKt": "98.69",
+        "pitchDeg": "4.30",
+        "rollDeg": "15.03"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.57",
+        "oilTempF": "169.86",
+        "oilPressurePSI": "70.47",
+        "rpm": "2373.3"
+      },
+      "timestamp": "2020-09-22T14:13:33.180Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4941521",
+        "longitude": "-122.1328964",
+        "altitudeFt": "1433.8",
+        "groundSpeedKt": "99.56",
+        "pitchDeg": "4.06",
+        "rollDeg": "15.44"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.70",
+        "oilTempF": "169.91",
+        "oilPressurePSI": "70.48",
+        "rpm": "2367.3"
+      },
+      "timestamp": "2020-09-22T14:13:34.137Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4946022",
+        "longitude": "-122.1327209",
+        "altitudeFt": "1441.8",
+        "groundSpeedKt": "100.50",
+        "pitchDeg": "3.90",
+        "rollDeg": "15.59"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.69",
+        "oilTempF": "169.96",
+        "oilPressurePSI": "70.45",
+        "rpm": "2373.0"
+      },
+      "timestamp": "2020-09-22T14:13:35.131Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4950447",
+        "longitude": "-122.1324997",
+        "altitudeFt": "1449.8",
+        "groundSpeedKt": "101.48",
+        "pitchDeg": "3.79",
+        "rollDeg": "14.83"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.65",
+        "oilTempF": "170.03",
+        "oilPressurePSI": "70.34",
+        "rpm": "2372.5"
+      },
+      "timestamp": "2020-09-22T14:13:36.093Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4954796",
+        "longitude": "-122.1322632",
+        "altitudeFt": "1457.8",
+        "groundSpeedKt": "102.45",
+        "pitchDeg": "3.74",
+        "rollDeg": "14.59"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.50",
+        "oilTempF": "170.09",
+        "oilPressurePSI": "70.34",
+        "rpm": "2374.0"
+      },
+      "timestamp": "2020-09-22T14:13:37.096Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4959030",
+        "longitude": "-122.1320038",
+        "altitudeFt": "1467.8",
+        "groundSpeedKt": "103.38",
+        "pitchDeg": "3.69",
+        "rollDeg": "13.81"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.61",
+        "oilTempF": "170.15",
+        "oilPressurePSI": "70.34",
+        "rpm": "2372.3"
+      },
+      "timestamp": "2020-09-22T14:13:38.186Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4963341",
+        "longitude": "-122.1317062",
+        "altitudeFt": "1477.8",
+        "groundSpeedKt": "104.29",
+        "pitchDeg": "3.56",
+        "rollDeg": "12.68"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.49",
+        "oilTempF": "170.22",
+        "oilPressurePSI": "70.40",
+        "rpm": "2374.2"
+      },
+      "timestamp": "2020-09-22T14:13:39.121Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4967575",
+        "longitude": "-122.1313934",
+        "altitudeFt": "1486.8",
+        "groundSpeedKt": "105.06",
+        "pitchDeg": "3.68",
+        "rollDeg": "11.45"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.58",
+        "oilTempF": "170.29",
+        "oilPressurePSI": "70.34",
+        "rpm": "2378.4"
+      },
+      "timestamp": "2020-09-22T14:13:39.931Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4971733",
+        "longitude": "-122.1310501",
+        "altitudeFt": "1495.8",
+        "groundSpeedKt": "105.78",
+        "pitchDeg": "3.71",
+        "rollDeg": "8.54"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.43",
+        "oilTempF": "170.35",
+        "oilPressurePSI": "70.29",
+        "rpm": "2371.8"
+      },
+      "timestamp": "2020-09-22T14:13:40.944Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4975777",
+        "longitude": "-122.1306992",
+        "altitudeFt": "1504.8",
+        "groundSpeedKt": "106.33",
+        "pitchDeg": "3.70",
+        "rollDeg": "6.69"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.55",
+        "oilTempF": "170.41",
+        "oilPressurePSI": "70.25",
+        "rpm": "2364.2"
+      },
+      "timestamp": "2020-09-22T14:13:42.060Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4979820",
+        "longitude": "-122.1303406",
+        "altitudeFt": "1515.8",
+        "groundSpeedKt": "106.80",
+        "pitchDeg": "3.63",
+        "rollDeg": "4.15"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.37",
+        "oilTempF": "170.47",
+        "oilPressurePSI": "70.33",
+        "rpm": "2366.5"
+      },
+      "timestamp": "2020-09-22T14:13:43.030Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4983826",
+        "longitude": "-122.1299591",
+        "altitudeFt": "1529.8",
+        "groundSpeedKt": "107.25",
+        "pitchDeg": "3.22",
+        "rollDeg": "2.70"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.69",
+        "oilTempF": "170.53",
+        "oilPressurePSI": "70.13",
+        "rpm": "2377.4"
+      },
+      "timestamp": "2020-09-22T14:13:44.054Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4987793",
+        "longitude": "-122.1295929",
+        "altitudeFt": "1540.8",
+        "groundSpeedKt": "107.48",
+        "pitchDeg": "2.96",
+        "rollDeg": "3.19"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.40",
+        "oilTempF": "170.59",
+        "oilPressurePSI": "70.13",
+        "rpm": "2368.4"
+      },
+      "timestamp": "2020-09-22T14:13:44.853Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4991913",
+        "longitude": "-122.1291809",
+        "altitudeFt": "1549.8",
+        "groundSpeedKt": "107.87",
+        "pitchDeg": "2.60",
+        "rollDeg": "1.21"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.57",
+        "oilTempF": "170.65",
+        "oilPressurePSI": "69.89",
+        "rpm": "2371.8"
+      },
+      "timestamp": "2020-09-22T14:13:45.852Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.4996033",
+        "longitude": "-122.1287842",
+        "altitudeFt": "1559.8",
+        "groundSpeedKt": "108.32",
+        "pitchDeg": "2.60",
+        "rollDeg": "0.70"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.52",
+        "oilTempF": "170.72",
+        "oilPressurePSI": "69.92",
+        "rpm": "2371.7"
+      },
+      "timestamp": "2020-09-22T14:13:47.177Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5003662",
+        "longitude": "-122.1280289",
+        "altitudeFt": "1576.8",
+        "groundSpeedKt": "109.08",
+        "pitchDeg": "2.52",
+        "rollDeg": "-1.82"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.47",
+        "oilTempF": "170.84",
+        "oilPressurePSI": "69.94",
+        "rpm": "2377.7"
+      },
+      "timestamp": "2020-09-22T14:13:48.939Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5007668",
+        "longitude": "-122.1276398",
+        "altitudeFt": "1583.8",
+        "groundSpeedKt": "109.31",
+        "pitchDeg": "2.68",
+        "rollDeg": "-0.30"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.45",
+        "oilTempF": "170.90",
+        "oilPressurePSI": "70.09",
+        "rpm": "2371.4"
+      },
+      "timestamp": "2020-09-22T14:13:49.810Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5011635",
+        "longitude": "-122.1272507",
+        "altitudeFt": "1590.8",
+        "groundSpeedKt": "109.52",
+        "pitchDeg": "2.97",
+        "rollDeg": "2.12"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.19",
+        "oilTempF": "170.96",
+        "oilPressurePSI": "69.97",
+        "rpm": "2374.5"
+      },
+      "timestamp": "2020-09-22T14:13:51.036Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5015678",
+        "longitude": "-122.1268539",
+        "altitudeFt": "1598.8",
+        "groundSpeedKt": "109.69",
+        "pitchDeg": "3.01",
+        "rollDeg": "1.43"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.40",
+        "oilTempF": "171.02",
+        "oilPressurePSI": "69.80",
+        "rpm": "2367.4"
+      },
+      "timestamp": "2020-09-22T14:13:52.095Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5019836",
+        "longitude": "-122.1264343",
+        "altitudeFt": "1606.8",
+        "groundSpeedKt": "109.86",
+        "pitchDeg": "2.85",
+        "rollDeg": "0.80"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.47",
+        "oilTempF": "171.08",
+        "oilPressurePSI": "69.82",
+        "rpm": "2374.8"
+      },
+      "timestamp": "2020-09-22T14:13:52.873Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5023499",
+        "longitude": "-122.1260681",
+        "altitudeFt": "1618.8",
+        "groundSpeedKt": "109.95",
+        "pitchDeg": "2.96",
+        "rollDeg": "2.91"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.33",
+        "oilTempF": "171.15",
+        "oilPressurePSI": "69.93",
+        "rpm": "2376.0"
+      },
+      "timestamp": "2020-09-22T14:13:54.057Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5027580",
+        "longitude": "-122.1256561",
+        "altitudeFt": "1629.8",
+        "groundSpeedKt": "110.07",
+        "pitchDeg": "2.96",
+        "rollDeg": "2.19"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.51",
+        "oilTempF": "171.21",
+        "oilPressurePSI": "69.78",
+        "rpm": "2371.3"
+      },
+      "timestamp": "2020-09-22T14:13:55.018Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5031548",
+        "longitude": "-122.1252441",
+        "altitudeFt": "1639.8",
+        "groundSpeedKt": "110.13",
+        "pitchDeg": "2.86",
+        "rollDeg": "2.46"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.28",
+        "oilTempF": "171.26",
+        "oilPressurePSI": "69.76",
+        "rpm": "2370.5"
+      },
+      "timestamp": "2020-09-22T14:13:55.919Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5035362",
+        "longitude": "-122.1248322",
+        "altitudeFt": "1649.8",
+        "groundSpeedKt": "110.25",
+        "pitchDeg": "3.11",
+        "rollDeg": "2.41"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.41",
+        "oilTempF": "171.33",
+        "oilPressurePSI": "69.91",
+        "rpm": "2375.8"
+      },
+      "timestamp": "2020-09-22T14:13:56.906Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5039330",
+        "longitude": "-122.1244125",
+        "altitudeFt": "1660.8",
+        "groundSpeedKt": "110.30",
+        "pitchDeg": "3.15",
+        "rollDeg": "1.43"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.36",
+        "oilTempF": "171.39",
+        "oilPressurePSI": "69.73",
+        "rpm": "2371.8"
+      },
+      "timestamp": "2020-09-22T14:13:57.906Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5043182",
+        "longitude": "-122.1239853",
+        "altitudeFt": "1670.8",
+        "groundSpeedKt": "110.27",
+        "pitchDeg": "3.15",
+        "rollDeg": "1.66"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.44",
+        "oilTempF": "171.46",
+        "oilPressurePSI": "69.97",
+        "rpm": "2376.4"
+      },
+      "timestamp": "2020-09-22T14:13:58.811Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5047188",
+        "longitude": "-122.1235504",
+        "altitudeFt": "1680.8",
+        "groundSpeedKt": "110.21",
+        "pitchDeg": "3.23",
+        "rollDeg": "1.81"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.38",
+        "oilTempF": "171.51",
+        "oilPressurePSI": "69.77",
+        "rpm": "2374.5"
+      },
+      "timestamp": "2020-09-22T14:14:00.015Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5051155",
+        "longitude": "-122.1231155",
+        "altitudeFt": "1691.8",
+        "groundSpeedKt": "110.21",
+        "pitchDeg": "3.31",
+        "rollDeg": "1.53"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.23",
+        "oilTempF": "171.59",
+        "oilPressurePSI": "69.69",
+        "rpm": "2366.9"
+      },
+      "timestamp": "2020-09-22T14:14:01.086Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5058441",
+        "longitude": "-122.1222839",
+        "altitudeFt": "1710.8",
+        "groundSpeedKt": "110.06",
+        "pitchDeg": "3.23",
+        "rollDeg": "1.09"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.43",
+        "oilTempF": "171.71",
+        "oilPressurePSI": "69.68",
+        "rpm": "2370.6"
+      },
+      "timestamp": "2020-09-22T14:14:03.063Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5062180",
+        "longitude": "-122.1218567",
+        "altitudeFt": "1721.8",
+        "groundSpeedKt": "109.96",
+        "pitchDeg": "3.13",
+        "rollDeg": "0.74"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.29",
+        "oilTempF": "171.79",
+        "oilPressurePSI": "69.65",
+        "rpm": "2368.4"
+      },
+      "timestamp": "2020-09-22T14:14:03.970Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5065994",
+        "longitude": "-122.1214218",
+        "altitudeFt": "1733.8",
+        "groundSpeedKt": "109.96",
+        "pitchDeg": "3.08",
+        "rollDeg": "1.40"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.32",
+        "oilTempF": "171.86",
+        "oilPressurePSI": "69.79",
+        "rpm": "2376.5"
+      },
+      "timestamp": "2020-09-22T14:14:05.080Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5069618",
+        "longitude": "-122.1209946",
+        "altitudeFt": "1745.8",
+        "groundSpeedKt": "109.87",
+        "pitchDeg": "3.02",
+        "rollDeg": "5.08"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.35",
+        "oilTempF": "171.94",
+        "oilPressurePSI": "69.59",
+        "rpm": "2366.7"
+      },
+      "timestamp": "2020-09-22T14:14:05.984Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5073395",
+        "longitude": "-122.1205444",
+        "altitudeFt": "1753.8",
+        "groundSpeedKt": "109.96",
+        "pitchDeg": "2.85",
+        "rollDeg": "8.95"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.30",
+        "oilTempF": "172.01",
+        "oilPressurePSI": "69.64",
+        "rpm": "2368.1"
+      },
+      "timestamp": "2020-09-22T14:14:06.865Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5077019",
+        "longitude": "-122.1200943",
+        "altitudeFt": "1762.8",
+        "groundSpeedKt": "110.26",
+        "pitchDeg": "2.91",
+        "rollDeg": "10.56"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.43",
+        "oilTempF": "172.07",
+        "oilPressurePSI": "69.59",
+        "rpm": "2373.6"
+      },
+      "timestamp": "2020-09-22T14:14:07.943Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5080528",
+        "longitude": "-122.1196136",
+        "altitudeFt": "1770.8",
+        "groundSpeedKt": "110.66",
+        "pitchDeg": "2.92",
+        "rollDeg": "11.29"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.27",
+        "oilTempF": "172.14",
+        "oilPressurePSI": "69.63",
+        "rpm": "2372.9"
+      },
+      "timestamp": "2020-09-22T14:14:09.045Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5083923",
+        "longitude": "-122.1191406",
+        "altitudeFt": "1779.8",
+        "groundSpeedKt": "111.15",
+        "pitchDeg": "2.91",
+        "rollDeg": "11.69"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.39",
+        "oilTempF": "172.21",
+        "oilPressurePSI": "69.51",
+        "rpm": "2366.4"
+      },
+      "timestamp": "2020-09-22T14:14:10.051Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5087204",
+        "longitude": "-122.1186371",
+        "altitudeFt": "1790.8",
+        "groundSpeedKt": "111.63",
+        "pitchDeg": "2.97",
+        "rollDeg": "11.73"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.35",
+        "oilTempF": "172.28",
+        "oilPressurePSI": "69.72",
+        "rpm": "2369.0"
+      },
+      "timestamp": "2020-09-22T14:14:10.919Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5090408",
+        "longitude": "-122.1181030",
+        "altitudeFt": "1800.8",
+        "groundSpeedKt": "112.09",
+        "pitchDeg": "3.08",
+        "rollDeg": "11.49"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.36",
+        "oilTempF": "172.34",
+        "oilPressurePSI": "69.56",
+        "rpm": "2376.1"
+      },
+      "timestamp": "2020-09-22T14:14:12.009Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5093384",
+        "longitude": "-122.1175690",
+        "altitudeFt": "1810.8",
+        "groundSpeedKt": "112.51",
+        "pitchDeg": "3.23",
+        "rollDeg": "10.74"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.41",
+        "oilTempF": "172.41",
+        "oilPressurePSI": "69.60",
+        "rpm": "2373.3"
+      },
+      "timestamp": "2020-09-22T14:14:13.118Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5096283",
+        "longitude": "-122.1170197",
+        "altitudeFt": "1820.8",
+        "groundSpeedKt": "112.85",
+        "pitchDeg": "3.43",
+        "rollDeg": "10.03"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.23",
+        "oilTempF": "172.48",
+        "oilPressurePSI": "69.51",
+        "rpm": "2373.6"
+      },
+      "timestamp": "2020-09-22T14:14:13.951Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5098915",
+        "longitude": "-122.1164780",
+        "altitudeFt": "1831.8",
+        "groundSpeedKt": "113.10",
+        "pitchDeg": "3.69",
+        "rollDeg": "9.10"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.40",
+        "oilTempF": "172.54",
+        "oilPressurePSI": "69.55",
+        "rpm": "2372.2"
+      },
+      "timestamp": "2020-09-22T14:14:15.192Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5101585",
+        "longitude": "-122.1158905",
+        "altitudeFt": "1842.8",
+        "groundSpeedKt": "113.25",
+        "pitchDeg": "3.88",
+        "rollDeg": "8.15"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.24",
+        "oilTempF": "172.61",
+        "oilPressurePSI": "69.41",
+        "rpm": "2369.1"
+      },
+      "timestamp": "2020-09-22T14:14:15.974Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5104141",
+        "longitude": "-122.1153107",
+        "altitudeFt": "1854.8",
+        "groundSpeedKt": "113.27",
+        "pitchDeg": "3.93",
+        "rollDeg": "7.44"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.50",
+        "oilTempF": "172.69",
+        "oilPressurePSI": "69.54",
+        "rpm": "2374.8"
+      },
+      "timestamp": "2020-09-22T14:14:17.093Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5106697",
+        "longitude": "-122.1147232",
+        "altitudeFt": "1868.8",
+        "groundSpeedKt": "113.27",
+        "pitchDeg": "3.90",
+        "rollDeg": "6.67"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.37",
+        "oilTempF": "172.76",
+        "oilPressurePSI": "69.48",
+        "rpm": "2364.5"
+      },
+      "timestamp": "2020-09-22T14:14:17.848Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5108795",
+        "longitude": "-122.1141281",
+        "altitudeFt": "1881.8",
+        "groundSpeedKt": "113.18",
+        "pitchDeg": "3.92",
+        "rollDeg": "5.54"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.13",
+        "oilTempF": "172.82",
+        "oilPressurePSI": "69.37",
+        "rpm": "2377.4"
+      },
+      "timestamp": "2020-09-22T14:14:18.889Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5110970",
+        "longitude": "-122.1135254",
+        "altitudeFt": "1894.8",
+        "groundSpeedKt": "113.11",
+        "pitchDeg": "3.93",
+        "rollDeg": "4.70"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.33",
+        "oilTempF": "172.89",
+        "oilPressurePSI": "69.47",
+        "rpm": "2368.5"
+      },
+      "timestamp": "2020-09-22T14:14:20.086Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5113258",
+        "longitude": "-122.1128845",
+        "altitudeFt": "1907.8",
+        "groundSpeedKt": "113.00",
+        "pitchDeg": "4.03",
+        "rollDeg": "3.68"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.16",
+        "oilTempF": "172.96",
+        "oilPressurePSI": "69.43",
+        "rpm": "2368.2"
+      },
+      "timestamp": "2020-09-22T14:14:21.095Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5117188",
+        "longitude": "-122.1117249",
+        "altitudeFt": "1933.8",
+        "groundSpeedKt": "112.58",
+        "pitchDeg": "4.19",
+        "rollDeg": "1.80"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.12",
+        "oilTempF": "173.10",
+        "oilPressurePSI": "69.46",
+        "rpm": "2378.1"
+      },
+      "timestamp": "2020-09-22T14:14:22.813Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5119171",
+        "longitude": "-122.1111221",
+        "altitudeFt": "1946.8",
+        "groundSpeedKt": "112.32",
+        "pitchDeg": "4.22",
+        "rollDeg": "1.57"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.27",
+        "oilTempF": "173.17",
+        "oilPressurePSI": "69.36",
+        "rpm": "2366.3"
+      },
+      "timestamp": "2020-09-22T14:14:23.813Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5121155",
+        "longitude": "-122.1105194",
+        "altitudeFt": "1958.8",
+        "groundSpeedKt": "112.32",
+        "pitchDeg": "4.14",
+        "rollDeg": "1.22"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.37",
+        "oilTempF": "173.23",
+        "oilPressurePSI": "69.25",
+        "rpm": "2368.1"
+      },
+      "timestamp": "2020-09-22T14:14:25.177Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5123062",
+        "longitude": "-122.1098938",
+        "altitudeFt": "1971.8",
+        "groundSpeedKt": "111.73",
+        "pitchDeg": "3.96",
+        "rollDeg": "1.24"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.05",
+        "oilTempF": "173.30",
+        "oilPressurePSI": "69.17",
+        "rpm": "2368.6"
+      },
+      "timestamp": "2020-09-22T14:14:25.950Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5124893",
+        "longitude": "-122.1093063",
+        "altitudeFt": "1983.8",
+        "groundSpeedKt": "111.50",
+        "pitchDeg": "3.85",
+        "rollDeg": "1.52"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.24",
+        "oilTempF": "173.37",
+        "oilPressurePSI": "69.19",
+        "rpm": "2369.7"
+      },
+      "timestamp": "2020-09-22T14:14:27.192Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5126839",
+        "longitude": "-122.1086731",
+        "altitudeFt": "1995.8",
+        "groundSpeedKt": "111.31",
+        "pitchDeg": "3.74",
+        "rollDeg": "1.53"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.16",
+        "oilTempF": "173.44",
+        "oilPressurePSI": "69.25",
+        "rpm": "2369.4"
+      },
+      "timestamp": "2020-09-22T14:14:27.927Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5128555",
+        "longitude": "-122.1081314",
+        "altitudeFt": "2006.8",
+        "groundSpeedKt": "111.16",
+        "pitchDeg": "3.60",
+        "rollDeg": "1.23"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.28",
+        "oilTempF": "173.51",
+        "oilPressurePSI": "69.25",
+        "rpm": "2368.9"
+      },
+      "timestamp": "2020-09-22T14:14:29.033Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5130424",
+        "longitude": "-122.1074982",
+        "altitudeFt": "2017.8",
+        "groundSpeedKt": "111.05",
+        "pitchDeg": "3.47",
+        "rollDeg": "1.12"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.22",
+        "oilTempF": "173.58",
+        "oilPressurePSI": "69.27",
+        "rpm": "2366.3"
+      },
+      "timestamp": "2020-09-22T14:14:29.887Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5132179",
+        "longitude": "-122.1069031",
+        "altitudeFt": "2030.8",
+        "groundSpeedKt": "110.96",
+        "pitchDeg": "2.45",
+        "rollDeg": "0.77"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.33",
+        "oilTempF": "173.65",
+        "oilPressurePSI": "69.22",
+        "rpm": "2370.0"
+      },
+      "timestamp": "2020-09-22T14:14:31.064Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5133972",
+        "longitude": "-122.1062851",
+        "altitudeFt": "2043.8",
+        "groundSpeedKt": "111.01",
+        "pitchDeg": "1.11",
+        "rollDeg": "0.81"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.13",
+        "oilTempF": "173.72",
+        "oilPressurePSI": "69.37",
+        "rpm": "2368.4"
+      },
+      "timestamp": "2020-09-22T14:14:31.964Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5135765",
+        "longitude": "-122.1056671",
+        "altitudeFt": "2052.8",
+        "groundSpeedKt": "111.43",
+        "pitchDeg": "-0.12",
+        "rollDeg": "1.31"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.30",
+        "oilTempF": "173.79",
+        "oilPressurePSI": "69.35",
+        "rpm": "2370.1"
+      },
+      "timestamp": "2020-09-22T14:14:32.830Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5137520",
+        "longitude": "-122.1050568",
+        "altitudeFt": "2056.8",
+        "groundSpeedKt": "112.22",
+        "pitchDeg": "-1.34",
+        "rollDeg": "0.83"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.29",
+        "oilTempF": "173.86",
+        "oilPressurePSI": "69.29",
+        "rpm": "2371.7"
+      },
+      "timestamp": "2020-09-22T14:14:34.042Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5139275",
+        "longitude": "-122.1044540",
+        "altitudeFt": "2058.8",
+        "groundSpeedKt": "113.26",
+        "pitchDeg": "-2.00",
+        "rollDeg": "0.52"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.27",
+        "oilTempF": "173.92",
+        "oilPressurePSI": "69.24",
+        "rpm": "2378.0"
+      },
+      "timestamp": "2020-09-22T14:14:35.092Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5141182",
+        "longitude": "-122.1037750",
+        "altitudeFt": "2054.8",
+        "groundSpeedKt": "114.52",
+        "pitchDeg": "-2.32",
+        "rollDeg": "0.46"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.24",
+        "oilTempF": "173.98",
+        "oilPressurePSI": "69.28",
+        "rpm": "2376.3"
+      },
+      "timestamp": "2020-09-22T14:14:35.844Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5142860",
+        "longitude": "-122.1031876",
+        "altitudeFt": "2051.8",
+        "groundSpeedKt": "115.94",
+        "pitchDeg": "-2.44",
+        "rollDeg": "0.22"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.43",
+        "oilTempF": "174.05",
+        "oilPressurePSI": "69.37",
+        "rpm": "2377.0"
+      },
+      "timestamp": "2020-09-22T14:14:36.833Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5144768",
+        "longitude": "-122.1025162",
+        "altitudeFt": "2048.8",
+        "groundSpeedKt": "117.34",
+        "pitchDeg": "-2.67",
+        "rollDeg": "-0.25"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.21",
+        "oilTempF": "174.12",
+        "oilPressurePSI": "69.27",
+        "rpm": "2379.0"
+      },
+      "timestamp": "2020-09-22T14:14:38.082Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5146599",
+        "longitude": "-122.1018600",
+        "altitudeFt": "2046.8",
+        "groundSpeedKt": "118.72",
+        "pitchDeg": "-3.08",
+        "rollDeg": "-0.67"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.20",
+        "oilTempF": "174.19",
+        "oilPressurePSI": "69.35",
+        "rpm": "2377.5"
+      },
+      "timestamp": "2020-09-22T14:14:38.889Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5148468",
+        "longitude": "-122.1012192",
+        "altitudeFt": "2043.8",
+        "groundSpeedKt": "118.72",
+        "pitchDeg": "-3.19",
+        "rollDeg": "-0.03"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.20",
+        "oilTempF": "174.26",
+        "oilPressurePSI": "69.29",
+        "rpm": "2376.0"
+      },
+      "timestamp": "2020-09-22T14:14:40.174Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5150452",
+        "longitude": "-122.1005325",
+        "altitudeFt": "2038.8",
+        "groundSpeedKt": "121.46",
+        "pitchDeg": "-3.02",
+        "rollDeg": "0.04"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.36",
+        "oilTempF": "174.33",
+        "oilPressurePSI": "69.29",
+        "rpm": "2371.6"
+      },
+      "timestamp": "2020-09-22T14:14:41.129Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5152435",
+        "longitude": "-122.0998230",
+        "altitudeFt": "2033.8",
+        "groundSpeedKt": "122.79",
+        "pitchDeg": "-2.68",
+        "rollDeg": "-0.09"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.19",
+        "oilTempF": "174.39",
+        "oilPressurePSI": "69.26",
+        "rpm": "2375.5"
+      },
+      "timestamp": "2020-09-22T14:14:41.972Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5154305",
+        "longitude": "-122.0991974",
+        "altitudeFt": "2030.8",
+        "groundSpeedKt": "124.00",
+        "pitchDeg": "-2.44",
+        "rollDeg": "-0.25"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.32",
+        "oilTempF": "174.46",
+        "oilPressurePSI": "69.36",
+        "rpm": "2382.1"
+      },
+      "timestamp": "2020-09-22T14:14:43.122Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5156326",
+        "longitude": "-122.0984879",
+        "altitudeFt": "2029.8",
+        "groundSpeedKt": "125.01",
+        "pitchDeg": "-2.21",
+        "rollDeg": "-0.35"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.26",
+        "oilTempF": "174.52",
+        "oilPressurePSI": "69.20",
+        "rpm": "2375.4"
+      },
+      "timestamp": "2020-09-22T14:14:43.867Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5158310",
+        "longitude": "-122.0978012",
+        "altitudeFt": "2028.8",
+        "groundSpeedKt": "125.01",
+        "pitchDeg": "-2.01",
+        "rollDeg": "-0.45"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.16",
+        "oilTempF": "174.59",
+        "oilPressurePSI": "69.26",
+        "rpm": "2379.0"
+      },
+      "timestamp": "2020-09-22T14:14:45.090Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5160332",
+        "longitude": "-122.0971069",
+        "altitudeFt": "2029.8",
+        "groundSpeedKt": "125.86",
+        "pitchDeg": "-2.33",
+        "rollDeg": "-0.88"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.13",
+        "oilTempF": "174.66",
+        "oilPressurePSI": "69.32",
+        "rpm": "2378.1"
+      },
+      "timestamp": "2020-09-22T14:14:45.818Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5162354",
+        "longitude": "-122.0964050",
+        "altitudeFt": "2029.8",
+        "groundSpeedKt": "126.56",
+        "pitchDeg": "-2.29",
+        "rollDeg": "-0.69"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.22",
+        "oilTempF": "174.73",
+        "oilPressurePSI": "69.22",
+        "rpm": "2386.6"
+      },
+      "timestamp": "2020-09-22T14:14:46.894Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5164719",
+        "longitude": "-122.0956268",
+        "altitudeFt": "2027.8",
+        "groundSpeedKt": "127.80",
+        "pitchDeg": "-2.12",
+        "rollDeg": "-0.90"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.06",
+        "oilTempF": "174.81",
+        "oilPressurePSI": "69.24",
+        "rpm": "2374.5"
+      },
+      "timestamp": "2020-09-22T14:14:48.171Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5168686",
+        "longitude": "-122.0943069",
+        "altitudeFt": "2025.8",
+        "groundSpeedKt": "128.84",
+        "pitchDeg": "-2.43",
+        "rollDeg": "-0.12"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.39",
+        "oilTempF": "174.95",
+        "oilPressurePSI": "69.14",
+        "rpm": "2376.8"
+      },
+      "timestamp": "2020-09-22T14:14:49.844Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5170822",
+        "longitude": "-122.0935974",
+        "altitudeFt": "2022.8",
+        "groundSpeedKt": "129.37",
+        "pitchDeg": "-2.21",
+        "rollDeg": "0.20"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.17",
+        "oilTempF": "175.01",
+        "oilPressurePSI": "69.14",
+        "rpm": "2382.5"
+      },
+      "timestamp": "2020-09-22T14:14:51.056Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5172958",
+        "longitude": "-122.0928802",
+        "altitudeFt": "2018.8",
+        "groundSpeedKt": "129.89",
+        "pitchDeg": "-1.94",
+        "rollDeg": "0.15"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.15",
+        "oilTempF": "175.08",
+        "oilPressurePSI": "69.20",
+        "rpm": "2376.4"
+      },
+      "timestamp": "2020-09-22T14:14:52.073Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5175133",
+        "longitude": "-122.0921860",
+        "altitudeFt": "2018.8",
+        "groundSpeedKt": "130.32",
+        "pitchDeg": "-2.01",
+        "rollDeg": "-0.09"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.31",
+        "oilTempF": "175.14",
+        "oilPressurePSI": "69.19",
+        "rpm": "2373.6"
+      },
+      "timestamp": "2020-09-22T14:14:52.936Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5177345",
+        "longitude": "-122.0914612",
+        "altitudeFt": "2020.8",
+        "groundSpeedKt": "130.66",
+        "pitchDeg": "-2.44",
+        "rollDeg": "-0.21"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.15",
+        "oilTempF": "175.20",
+        "oilPressurePSI": "69.18",
+        "rpm": "2374.8"
+      },
+      "timestamp": "2020-09-22T14:14:53.873Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5179634",
+        "longitude": "-122.0907288",
+        "altitudeFt": "2019.8",
+        "groundSpeedKt": "131.02",
+        "pitchDeg": "-2.46",
+        "rollDeg": "-0.20"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.19",
+        "oilTempF": "175.27",
+        "oilPressurePSI": "69.13",
+        "rpm": "2376.3"
+      },
+      "timestamp": "2020-09-22T14:14:55.053Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5181732",
+        "longitude": "-122.0900421",
+        "altitudeFt": "2015.8",
+        "groundSpeedKt": "131.45",
+        "pitchDeg": "-2.25",
+        "rollDeg": "-0.24"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.16",
+        "oilTempF": "175.32",
+        "oilPressurePSI": "69.08",
+        "rpm": "2373.5"
+      },
+      "timestamp": "2020-09-22T14:14:55.807Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5183945",
+        "longitude": "-122.0893173",
+        "altitudeFt": "2013.8",
+        "groundSpeedKt": "131.86",
+        "pitchDeg": "-1.91",
+        "rollDeg": "-0.36"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "20.14",
+        "oilTempF": "175.37",
+        "oilPressurePSI": "69.18",
+        "rpm": "2384.7"
+      },
+      "timestamp": "2020-09-22T14:14:56.899Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5186195",
+        "longitude": "-122.0886078",
+        "altitudeFt": "2011.8",
+        "groundSpeedKt": "132.17",
+        "pitchDeg": "-1.48",
+        "rollDeg": "-0.35"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "19.19",
+        "oilTempF": "175.43",
+        "oilPressurePSI": "69.19",
+        "rpm": "2365.8"
+      },
+      "timestamp": "2020-09-22T14:14:57.981Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5188446",
+        "longitude": "-122.0878830",
+        "altitudeFt": "2012.8",
+        "groundSpeedKt": "132.24",
+        "pitchDeg": "-1.03",
+        "rollDeg": "-0.29"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "18.38",
+        "oilTempF": "175.48",
+        "oilPressurePSI": "68.94",
+        "rpm": "2362.4"
+      },
+      "timestamp": "2020-09-22T14:14:59.138Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5190659",
+        "longitude": "-122.0871887",
+        "altitudeFt": "2013.8",
+        "groundSpeedKt": "132.03",
+        "pitchDeg": "-0.71",
+        "rollDeg": "-0.18"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "17.46",
+        "oilTempF": "175.53",
+        "oilPressurePSI": "69.01",
+        "rpm": "2362.2"
+      },
+      "timestamp": "2020-09-22T14:14:59.998Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5192909",
+        "longitude": "-122.0864639",
+        "altitudeFt": "2016.8",
+        "groundSpeedKt": "131.62",
+        "pitchDeg": "-0.46",
+        "rollDeg": "-0.24"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "17.27",
+        "oilTempF": "175.58",
+        "oilPressurePSI": "68.95",
+        "rpm": "2371.9"
+      },
+      "timestamp": "2020-09-22T14:15:01.187Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5195274",
+        "longitude": "-122.0857239",
+        "altitudeFt": "2020.8",
+        "groundSpeedKt": "131.07",
+        "pitchDeg": "-0.23",
+        "rollDeg": "-0.09"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "17.17",
+        "oilTempF": "175.63",
+        "oilPressurePSI": "68.93",
+        "rpm": "2364.3"
+      },
+      "timestamp": "2020-09-22T14:15:01.861Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5197372",
+        "longitude": "-122.0850601",
+        "altitudeFt": "2023.8",
+        "groundSpeedKt": "130.50",
+        "pitchDeg": "-0.16",
+        "rollDeg": "-0.22"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.71",
+        "oilTempF": "175.69",
+        "oilPressurePSI": "68.92",
+        "rpm": "2359.2"
+      },
+      "timestamp": "2020-09-22T14:15:02.876Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5199623",
+        "longitude": "-122.0843582",
+        "altitudeFt": "2029.8",
+        "groundSpeedKt": "129.87",
+        "pitchDeg": "-0.42",
+        "rollDeg": "-0.10"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.37",
+        "oilTempF": "175.74",
+        "oilPressurePSI": "68.96",
+        "rpm": "2369.1"
+      },
+      "timestamp": "2020-09-22T14:15:04.114Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5201836",
+        "longitude": "-122.0836639",
+        "altitudeFt": "2035.8",
+        "groundSpeedKt": "129.18",
+        "pitchDeg": "-0.43",
+        "rollDeg": "-0.04"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.23",
+        "oilTempF": "175.80",
+        "oilPressurePSI": "68.89",
+        "rpm": "2372.0"
+      },
+      "timestamp": "2020-09-22T14:15:04.895Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5204010",
+        "longitude": "-122.0829773",
+        "altitudeFt": "2038.8",
+        "groundSpeedKt": "128.53",
+        "pitchDeg": "0.25",
+        "rollDeg": "0.13"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.26",
+        "oilTempF": "175.86",
+        "oilPressurePSI": "68.78",
+        "rpm": "2366.1"
+      },
+      "timestamp": "2020-09-22T14:15:06.012Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5206223",
+        "longitude": "-122.0822678",
+        "altitudeFt": "2040.8",
+        "groundSpeedKt": "127.82",
+        "pitchDeg": "0.80",
+        "rollDeg": "-0.03"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.19",
+        "oilTempF": "175.91",
+        "oilPressurePSI": "68.87",
+        "rpm": "2366.4"
+      },
+      "timestamp": "2020-09-22T14:15:07.024Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5208473",
+        "longitude": "-122.0815582",
+        "altitudeFt": "2046.8",
+        "groundSpeedKt": "126.94",
+        "pitchDeg": "0.93",
+        "rollDeg": "-0.15"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.25",
+        "oilTempF": "175.96",
+        "oilPressurePSI": "68.91",
+        "rpm": "2363.1"
+      },
+      "timestamp": "2020-09-22T14:15:07.971Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5210571",
+        "longitude": "-122.0809174",
+        "altitudeFt": "2053.8",
+        "groundSpeedKt": "126.03",
+        "pitchDeg": "0.59",
+        "rollDeg": "-0.11"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.27",
+        "oilTempF": "176.01",
+        "oilPressurePSI": "68.96",
+        "rpm": "2375.0"
+      },
+      "timestamp": "2020-09-22T14:15:09.078Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5212708",
+        "longitude": "-122.0802307",
+        "altitudeFt": "2059.8",
+        "groundSpeedKt": "125.20",
+        "pitchDeg": "0.13",
+        "rollDeg": "-0.08"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.18",
+        "oilTempF": "176.07",
+        "oilPressurePSI": "68.90",
+        "rpm": "2362.5"
+      },
+      "timestamp": "2020-09-22T14:15:10.031Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5214882",
+        "longitude": "-122.0795670",
+        "altitudeFt": "2063.8",
+        "groundSpeedKt": "124.56",
+        "pitchDeg": "-0.22",
+        "rollDeg": "-0.18"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.17",
+        "oilTempF": "176.12",
+        "oilPressurePSI": "68.98",
+        "rpm": "2368.3"
+      },
+      "timestamp": "2020-09-22T14:15:11.142Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5217056",
+        "longitude": "-122.0789108",
+        "altitudeFt": "2065.8",
+        "groundSpeedKt": "124.08",
+        "pitchDeg": "-0.55",
+        "rollDeg": "-0.14"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.39",
+        "oilTempF": "176.17",
+        "oilPressurePSI": "68.96",
+        "rpm": "2371.9"
+      },
+      "timestamp": "2020-09-22T14:15:12.195Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5219231",
+        "longitude": "-122.0782394",
+        "altitudeFt": "2067.8",
+        "groundSpeedKt": "123.74",
+        "pitchDeg": "-0.86",
+        "rollDeg": "-0.30"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.16",
+        "oilTempF": "176.21",
+        "oilPressurePSI": "68.91",
+        "rpm": "2366.0"
+      },
+      "timestamp": "2020-09-22T14:15:12.906Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5221481",
+        "longitude": "-122.0775452",
+        "altitudeFt": "2068.8",
+        "groundSpeedKt": "123.48",
+        "pitchDeg": "-1.13",
+        "rollDeg": "-0.22"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.28",
+        "oilTempF": "176.26",
+        "oilPressurePSI": "68.90",
+        "rpm": "2366.1"
+      },
+      "timestamp": "2020-09-22T14:15:14.045Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5223465",
+        "longitude": "-122.0769272",
+        "altitudeFt": "2068.8",
+        "groundSpeedKt": "123.34",
+        "pitchDeg": "-1.37",
+        "rollDeg": "-0.15"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.20",
+        "oilTempF": "176.32",
+        "oilPressurePSI": "68.90",
+        "rpm": "2370.3"
+      },
+      "timestamp": "2020-09-22T14:15:15.049Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5225754",
+        "longitude": "-122.0762482",
+        "altitudeFt": "2066.8",
+        "groundSpeedKt": "123.28",
+        "pitchDeg": "-1.57",
+        "rollDeg": "-0.07"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.19",
+        "oilTempF": "176.38",
+        "oilPressurePSI": "68.79",
+        "rpm": "2370.5"
+      },
+      "timestamp": "2020-09-22T14:15:16.079Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5228043",
+        "longitude": "-122.0755920",
+        "altitudeFt": "2065.8",
+        "groundSpeedKt": "123.31",
+        "pitchDeg": "-1.77",
+        "rollDeg": "0.21"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.21",
+        "oilTempF": "176.43",
+        "oilPressurePSI": "68.84",
+        "rpm": "2369.9"
+      },
+      "timestamp": "2020-09-22T14:15:17.177Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5230293",
+        "longitude": "-122.0749207",
+        "altitudeFt": "2064.8",
+        "groundSpeedKt": "123.41",
+        "pitchDeg": "-1.90",
+        "rollDeg": "0.30"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.33",
+        "oilTempF": "176.48",
+        "oilPressurePSI": "68.83",
+        "rpm": "2373.7"
+      },
+      "timestamp": "2020-09-22T14:15:18.040Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5232506",
+        "longitude": "-122.0742645",
+        "altitudeFt": "2063.8",
+        "groundSpeedKt": "123.55",
+        "pitchDeg": "-1.96",
+        "rollDeg": "0.29"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.22",
+        "oilTempF": "176.54",
+        "oilPressurePSI": "68.95",
+        "rpm": "2374.3"
+      },
+      "timestamp": "2020-09-22T14:15:18.864Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5234795",
+        "longitude": "-122.0735931",
+        "altitudeFt": "2062.8",
+        "groundSpeedKt": "123.72",
+        "pitchDeg": "-1.96",
+        "rollDeg": "0.52"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.19",
+        "oilTempF": "176.60",
+        "oilPressurePSI": "68.97",
+        "rpm": "2369.5"
+      },
+      "timestamp": "2020-09-22T14:15:19.832Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5237045",
+        "longitude": "-122.0729370",
+        "altitudeFt": "2061.8",
+        "groundSpeedKt": "123.91",
+        "pitchDeg": "-1.89",
+        "rollDeg": "0.70"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.21",
+        "oilTempF": "176.65",
+        "oilPressurePSI": "69.04",
+        "rpm": "2371.7"
+      },
+      "timestamp": "2020-09-22T14:15:20.826Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5239449",
+        "longitude": "-122.0722580",
+        "altitudeFt": "2060.8",
+        "groundSpeedKt": "124.09",
+        "pitchDeg": "-1.74",
+        "rollDeg": "0.74"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.19",
+        "oilTempF": "176.71",
+        "oilPressurePSI": "69.15",
+        "rpm": "2371.1"
+      },
+      "timestamp": "2020-09-22T14:15:22.184Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5241547",
+        "longitude": "-122.0716248",
+        "altitudeFt": "2059.8",
+        "groundSpeedKt": "124.24",
+        "pitchDeg": "-1.56",
+        "rollDeg": "0.90"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.11",
+        "oilTempF": "176.76",
+        "oilPressurePSI": "68.92",
+        "rpm": "2366.4"
+      },
+      "timestamp": "2020-09-22T14:15:22.924Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5243912",
+        "longitude": "-122.0709457",
+        "altitudeFt": "2059.8",
+        "groundSpeedKt": "124.37",
+        "pitchDeg": "-1.33",
+        "rollDeg": "1.00"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.04",
+        "oilTempF": "176.79",
+        "oilPressurePSI": "69.02",
+        "rpm": "2370.2"
+      },
+      "timestamp": "2020-09-22T14:15:24.046Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5246201",
+        "longitude": "-122.0702744",
+        "altitudeFt": "2059.8",
+        "groundSpeedKt": "124.45",
+        "pitchDeg": "-1.11",
+        "rollDeg": "0.69"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.26",
+        "oilTempF": "176.83",
+        "oilPressurePSI": "68.97",
+        "rpm": "2368.0"
+      },
+      "timestamp": "2020-09-22T14:15:24.968Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5248489",
+        "longitude": "-122.0696182",
+        "altitudeFt": "2059.8",
+        "groundSpeedKt": "124.47",
+        "pitchDeg": "-0.90",
+        "rollDeg": "0.77"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.02",
+        "oilTempF": "176.86",
+        "oilPressurePSI": "69.05",
+        "rpm": "2367.6"
+      },
+      "timestamp": "2020-09-22T14:15:25.897Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5250778",
+        "longitude": "-122.0689545",
+        "altitudeFt": "2061.8",
+        "groundSpeedKt": "124.41",
+        "pitchDeg": "-0.69",
+        "rollDeg": "0.94"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.00",
+        "oilTempF": "176.89",
+        "oilPressurePSI": "69.06",
+        "rpm": "2367.4"
+      },
+      "timestamp": "2020-09-22T14:15:27.003Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5253143",
+        "longitude": "-122.0682526",
+        "altitudeFt": "2063.8",
+        "groundSpeedKt": "124.29",
+        "pitchDeg": "-0.47",
+        "rollDeg": "1.08"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.14",
+        "oilTempF": "176.92",
+        "oilPressurePSI": "69.09",
+        "rpm": "2370.0"
+      },
+      "timestamp": "2020-09-22T14:15:28.074Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5255203",
+        "longitude": "-122.0676498",
+        "altitudeFt": "2065.8",
+        "groundSpeedKt": "124.12",
+        "pitchDeg": "-0.41",
+        "rollDeg": "1.36"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.22",
+        "oilTempF": "176.94",
+        "oilPressurePSI": "69.20",
+        "rpm": "2367.6"
+      },
+      "timestamp": "2020-09-22T14:15:28.888Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5257645",
+        "longitude": "-122.0669327",
+        "altitudeFt": "2068.8",
+        "groundSpeedKt": "123.89",
+        "pitchDeg": "-0.33",
+        "rollDeg": "1.53"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.14",
+        "oilTempF": "176.96",
+        "oilPressurePSI": "69.09",
+        "rpm": "2368.6"
+      },
+      "timestamp": "2020-09-22T14:15:29.824Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5259743",
+        "longitude": "-122.0662994",
+        "altitudeFt": "2069.8",
+        "groundSpeedKt": "123.63",
+        "pitchDeg": "-0.43",
+        "rollDeg": "1.55"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.03",
+        "oilTempF": "176.98",
+        "oilPressurePSI": "69.08",
+        "rpm": "2364.6"
+      },
+      "timestamp": "2020-09-22T14:15:31.045Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5261955",
+        "longitude": "-122.0656433",
+        "altitudeFt": "2074.8",
+        "groundSpeedKt": "123.38",
+        "pitchDeg": "-1.38",
+        "rollDeg": "1.27"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.10",
+        "oilTempF": "176.99",
+        "oilPressurePSI": "69.17",
+        "rpm": "2367.9"
+      },
+      "timestamp": "2020-09-22T14:15:31.846Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5264206",
+        "longitude": "-122.0649796",
+        "altitudeFt": "2077.8",
+        "groundSpeedKt": "123.38",
+        "pitchDeg": "-2.16",
+        "rollDeg": "1.10"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.10",
+        "oilTempF": "177.00",
+        "oilPressurePSI": "69.10",
+        "rpm": "2369.2"
+      },
+      "timestamp": "2020-09-22T14:15:32.964Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5266342",
+        "longitude": "-122.0643082",
+        "altitudeFt": "2075.8",
+        "groundSpeedKt": "123.39",
+        "pitchDeg": "-2.77",
+        "rollDeg": "0.67"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.09",
+        "oilTempF": "177.01",
+        "oilPressurePSI": "69.11",
+        "rpm": "2371.7"
+      },
+      "timestamp": "2020-09-22T14:15:34.072Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5268555",
+        "longitude": "-122.0636520",
+        "altitudeFt": "2070.8",
+        "groundSpeedKt": "123.71",
+        "pitchDeg": "-3.07",
+        "rollDeg": "0.54"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.13",
+        "oilTempF": "177.03",
+        "oilPressurePSI": "69.39",
+        "rpm": "2374.9"
+      },
+      "timestamp": "2020-09-22T14:15:35.061Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5270882",
+        "longitude": "-122.0629578",
+        "altitudeFt": "2064.8",
+        "groundSpeedKt": "124.16",
+        "pitchDeg": "-3.09",
+        "rollDeg": "0.78"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.09",
+        "oilTempF": "177.05",
+        "oilPressurePSI": "69.32",
+        "rpm": "2371.3"
+      },
+      "timestamp": "2020-09-22T14:15:36.097Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5272980",
+        "longitude": "-122.0623398",
+        "altitudeFt": "2058.8",
+        "groundSpeedKt": "124.65",
+        "pitchDeg": "-3.09",
+        "rollDeg": "0.91"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.02",
+        "oilTempF": "177.05",
+        "oilPressurePSI": "69.25",
+        "rpm": "2374.2"
+      },
+      "timestamp": "2020-09-22T14:15:36.916Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5275307",
+        "longitude": "-122.0616455",
+        "altitudeFt": "2053.8",
+        "groundSpeedKt": "125.14",
+        "pitchDeg": "-3.08",
+        "rollDeg": "1.23"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.08",
+        "oilTempF": "177.06",
+        "oilPressurePSI": "69.31",
+        "rpm": "2376.2"
+      },
+      "timestamp": "2020-09-22T14:15:38.194Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5277596",
+        "longitude": "-122.0609589",
+        "altitudeFt": "2049.8",
+        "groundSpeedKt": "125.59",
+        "pitchDeg": "-2.99",
+        "rollDeg": "1.19"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.08",
+        "oilTempF": "177.06",
+        "oilPressurePSI": "69.33",
+        "rpm": "2379.7"
+      },
+      "timestamp": "2020-09-22T14:15:39.004Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5279846",
+        "longitude": "-122.0602875",
+        "altitudeFt": "2045.8",
+        "groundSpeedKt": "125.59",
+        "pitchDeg": "-2.76",
+        "rollDeg": "1.34"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.22",
+        "oilTempF": "177.07",
+        "oilPressurePSI": "69.21",
+        "rpm": "2381.1"
+      },
+      "timestamp": "2020-09-22T14:15:40.167Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5282135",
+        "longitude": "-122.0596085",
+        "altitudeFt": "2042.8",
+        "groundSpeedKt": "126.33",
+        "pitchDeg": "-2.45",
+        "rollDeg": "1.59"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.12",
+        "oilTempF": "177.08",
+        "oilPressurePSI": "69.19",
+        "rpm": "2375.0"
+      },
+      "timestamp": "2020-09-22T14:15:41.187Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5284462",
+        "longitude": "-122.0588989",
+        "altitudeFt": "2038.8",
+        "groundSpeedKt": "126.55",
+        "pitchDeg": "-2.14",
+        "rollDeg": "1.65"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.07",
+        "oilTempF": "177.09",
+        "oilPressurePSI": "69.27",
+        "rpm": "2376.2"
+      },
+      "timestamp": "2020-09-22T14:15:42.164Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5286674",
+        "longitude": "-122.0582428",
+        "altitudeFt": "2036.8",
+        "groundSpeedKt": "126.66",
+        "pitchDeg": "-1.97",
+        "rollDeg": "1.83"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.11",
+        "oilTempF": "177.10",
+        "oilPressurePSI": "69.31",
+        "rpm": "2372.0"
+      },
+      "timestamp": "2020-09-22T14:15:43.158Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5288887",
+        "longitude": "-122.0575562",
+        "altitudeFt": "2035.8",
+        "groundSpeedKt": "126.75",
+        "pitchDeg": "-1.81",
+        "rollDeg": "1.53"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.24",
+        "oilTempF": "177.10",
+        "oilPressurePSI": "69.20",
+        "rpm": "2372.1"
+      },
+      "timestamp": "2020-09-22T14:15:43.964Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5291100",
+        "longitude": "-122.0568771",
+        "altitudeFt": "2036.8",
+        "groundSpeedKt": "126.79",
+        "pitchDeg": "-1.64",
+        "rollDeg": "0.82"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.08",
+        "oilTempF": "177.10",
+        "oilPressurePSI": "69.11",
+        "rpm": "2381.9"
+      },
+      "timestamp": "2020-09-22T14:15:45.175Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5293312",
+        "longitude": "-122.0561905",
+        "altitudeFt": "2039.8",
+        "groundSpeedKt": "126.74",
+        "pitchDeg": "-1.55",
+        "rollDeg": "0.73"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.16",
+        "oilTempF": "177.11",
+        "oilPressurePSI": "69.11",
+        "rpm": "2375.9"
+      },
+      "timestamp": "2020-09-22T14:15:45.831Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5295525",
+        "longitude": "-122.0555115",
+        "altitudeFt": "2041.8",
+        "groundSpeedKt": "126.61",
+        "pitchDeg": "-1.51",
+        "rollDeg": "0.82"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.08",
+        "oilTempF": "177.12",
+        "oilPressurePSI": "69.25",
+        "rpm": "2371.5"
+      },
+      "timestamp": "2020-09-22T14:15:47.060Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5297813",
+        "longitude": "-122.0548019",
+        "altitudeFt": "2043.8",
+        "groundSpeedKt": "126.45",
+        "pitchDeg": "-1.52",
+        "rollDeg": "0.76"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.01",
+        "oilTempF": "177.13",
+        "oilPressurePSI": "69.10",
+        "rpm": "2370.8"
+      },
+      "timestamp": "2020-09-22T14:15:48.150Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5299873",
+        "longitude": "-122.0541687",
+        "altitudeFt": "2043.8",
+        "groundSpeedKt": "126.27",
+        "pitchDeg": "-1.61",
+        "rollDeg": "0.76"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "15.90",
+        "oilTempF": "177.15",
+        "oilPressurePSI": "69.20",
+        "rpm": "2370.5"
+      },
+      "timestamp": "2020-09-22T14:15:49.132Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5302162",
+        "longitude": "-122.0534744",
+        "altitudeFt": "2044.8",
+        "groundSpeedKt": "126.16",
+        "pitchDeg": "-1.74",
+        "rollDeg": "0.79"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.15",
+        "oilTempF": "177.16",
+        "oilPressurePSI": "69.10",
+        "rpm": "2365.5"
+      },
+      "timestamp": "2020-09-22T14:15:50.171Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5304337",
+        "longitude": "-122.0527878",
+        "altitudeFt": "2043.8",
+        "groundSpeedKt": "126.16",
+        "pitchDeg": "-1.88",
+        "rollDeg": "0.90"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "15.98",
+        "oilTempF": "177.18",
+        "oilPressurePSI": "69.10",
+        "rpm": "2368.8"
+      },
+      "timestamp": "2020-09-22T14:15:50.988Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5306587",
+        "longitude": "-122.0521088",
+        "altitudeFt": "2041.8",
+        "groundSpeedKt": "126.11",
+        "pitchDeg": "-2.02",
+        "rollDeg": "0.97"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.11",
+        "oilTempF": "177.20",
+        "oilPressurePSI": "69.03",
+        "rpm": "2368.5"
+      },
+      "timestamp": "2020-09-22T14:15:51.836Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5308800",
+        "longitude": "-122.0514221",
+        "altitudeFt": "2040.8",
+        "groundSpeedKt": "126.11",
+        "pitchDeg": "-2.21",
+        "rollDeg": "1.02"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.15",
+        "oilTempF": "177.21",
+        "oilPressurePSI": "68.97",
+        "rpm": "2363.9"
+      },
+      "timestamp": "2020-09-22T14:15:52.963Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5311089",
+        "longitude": "-122.0507126",
+        "altitudeFt": "2037.8",
+        "groundSpeedKt": "126.31",
+        "pitchDeg": "-2.38",
+        "rollDeg": "1.05"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.05",
+        "oilTempF": "177.23",
+        "oilPressurePSI": "69.07",
+        "rpm": "2370.5"
+      },
+      "timestamp": "2020-09-22T14:15:53.969Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5313110",
+        "longitude": "-122.0500870",
+        "altitudeFt": "2034.8",
+        "groundSpeedKt": "126.51",
+        "pitchDeg": "-2.54",
+        "rollDeg": "0.81"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.03",
+        "oilTempF": "177.26",
+        "oilPressurePSI": "69.10",
+        "rpm": "2375.3"
+      },
+      "timestamp": "2020-09-22T14:15:55.159Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5315399",
+        "longitude": "-122.0493774",
+        "altitudeFt": "2030.8",
+        "groundSpeedKt": "126.75",
+        "pitchDeg": "-2.64",
+        "rollDeg": "0.87"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.13",
+        "oilTempF": "177.29",
+        "oilPressurePSI": "69.11",
+        "rpm": "2366.6"
+      },
+      "timestamp": "2020-09-22T14:15:55.963Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5317612",
+        "longitude": "-122.0486908",
+        "altitudeFt": "2026.8",
+        "groundSpeedKt": "127.02",
+        "pitchDeg": "-2.70",
+        "rollDeg": "0.99"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "15.94",
+        "oilTempF": "177.31",
+        "oilPressurePSI": "69.14",
+        "rpm": "2371.1"
+      },
+      "timestamp": "2020-09-22T14:15:56.903Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5319824",
+        "longitude": "-122.0480118",
+        "altitudeFt": "2022.8",
+        "groundSpeedKt": "127.30",
+        "pitchDeg": "-2.79",
+        "rollDeg": "0.77"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.14",
+        "oilTempF": "177.33",
+        "oilPressurePSI": "69.22",
+        "rpm": "2374.7"
+      },
+      "timestamp": "2020-09-22T14:15:58.000Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5322037",
+        "longitude": "-122.0473099",
+        "altitudeFt": "2020.8",
+        "groundSpeedKt": "127.56",
+        "pitchDeg": "-2.74",
+        "rollDeg": "0.57"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.05",
+        "oilTempF": "177.35",
+        "oilPressurePSI": "69.24",
+        "rpm": "2376.2"
+      },
+      "timestamp": "2020-09-22T14:15:59.158Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5324326",
+        "longitude": "-122.0466003",
+        "altitudeFt": "2016.8",
+        "groundSpeedKt": "127.78",
+        "pitchDeg": "-2.55",
+        "rollDeg": "0.35"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "15.98",
+        "oilTempF": "177.37",
+        "oilPressurePSI": "69.26",
+        "rpm": "2378.9"
+      },
+      "timestamp": "2020-09-22T14:16:00.163Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5326424",
+        "longitude": "-122.0459595",
+        "altitudeFt": "2012.8",
+        "groundSpeedKt": "127.93",
+        "pitchDeg": "-2.43",
+        "rollDeg": "0.34"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.06",
+        "oilTempF": "177.39",
+        "oilPressurePSI": "69.24",
+        "rpm": "2375.9"
+      },
+      "timestamp": "2020-09-22T14:16:00.801Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5328712",
+        "longitude": "-122.0452499",
+        "altitudeFt": "2008.8",
+        "groundSpeedKt": "127.99",
+        "pitchDeg": "-2.35",
+        "rollDeg": "0.44"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.09",
+        "oilTempF": "177.42",
+        "oilPressurePSI": "69.27",
+        "rpm": "2377.1"
+      },
+      "timestamp": "2020-09-22T14:16:02.105Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5330963",
+        "longitude": "-122.0445557",
+        "altitudeFt": "2004.8",
+        "groundSpeedKt": "128.05",
+        "pitchDeg": "-2.22",
+        "rollDeg": "0.56"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.13",
+        "oilTempF": "177.45",
+        "oilPressurePSI": "69.41",
+        "rpm": "2376.7"
+      },
+      "timestamp": "2020-09-22T14:16:03.094Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5333176",
+        "longitude": "-122.0438690",
+        "altitudeFt": "2001.8",
+        "groundSpeedKt": "128.06",
+        "pitchDeg": "-2.12",
+        "rollDeg": "0.66"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.10",
+        "oilTempF": "177.48",
+        "oilPressurePSI": "69.25",
+        "rpm": "2374.4"
+      },
+      "timestamp": "2020-09-22T14:16:04.115Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5335388",
+        "longitude": "-122.0431747",
+        "altitudeFt": "1997.8",
+        "groundSpeedKt": "128.03",
+        "pitchDeg": "-2.02",
+        "rollDeg": "0.85"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.04",
+        "oilTempF": "177.51",
+        "oilPressurePSI": "69.10",
+        "rpm": "2378.3"
+      },
+      "timestamp": "2020-09-22T14:16:04.943Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5337715",
+        "longitude": "-122.0424652",
+        "altitudeFt": "1994.8",
+        "groundSpeedKt": "128.00",
+        "pitchDeg": "-1.91",
+        "rollDeg": "0.35"
+      },
+      "battery": {
+        "volts": "28.0",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.12",
+        "oilTempF": "177.53",
+        "oilPressurePSI": "69.17",
+        "rpm": "2377.0"
+      },
+      "timestamp": "2020-09-22T14:16:05.962Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5339813",
+        "longitude": "-122.0418243",
+        "altitudeFt": "1990.8",
+        "groundSpeedKt": "127.93",
+        "pitchDeg": "-1.81",
+        "rollDeg": "0.23"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.08",
+        "oilTempF": "177.55",
+        "oilPressurePSI": "69.20",
+        "rpm": "2374.4"
+      },
+      "timestamp": "2020-09-22T14:16:07.070Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5342140",
+        "longitude": "-122.0410843",
+        "altitudeFt": "1987.8",
+        "groundSpeedKt": "127.84",
+        "pitchDeg": "-1.69",
+        "rollDeg": "0.19"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.4"
+      },
+      "engine": {
+        "fuelFlowGPH": "15.93",
+        "oilTempF": "177.57",
+        "oilPressurePSI": "69.30",
+        "rpm": "2375.1"
+      },
+      "timestamp": "2020-09-22T14:16:08.062Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5344315",
+        "longitude": "-122.0404129",
+        "altitudeFt": "1984.8",
+        "groundSpeedKt": "127.72",
+        "pitchDeg": "-1.60",
+        "rollDeg": "0.21"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "16.02",
+        "oilTempF": "177.59",
+        "oilPressurePSI": "69.17",
+        "rpm": "2372.8"
+      },
+      "timestamp": "2020-09-22T14:16:08.903Z"
+    },
+    {
+      "avionics": {
+        "latitude": "37.5346527",
+        "longitude": "-122.0397339",
+        "altitudeFt": "1982.8",
+        "groundSpeedKt": "127.56",
+        "pitchDeg": "-1.64",
+        "rollDeg": "0.14"
+      },
+      "battery": {
+        "volts": "28.1",
+        "amps": "0.5"
+      },
+      "engine": {
+        "fuelFlowGPH": "15.88",
+        "oilTempF": "177.62",
+        "oilPressurePSI": "69.08",
+        "rpm": "2372.7"
+      },
+      "timestamp": "2020-09-22T14:16:10.070Z"
+    }
+  ]
+}
