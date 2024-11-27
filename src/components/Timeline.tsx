@@ -1,4 +1,21 @@
+import { useStore } from '../state';
+
 export const Timeline = () => {
+    const { timestamps, isLoading, current: { timestamp, index }, setTimestampIndex } = useStore();
+
+    if (isLoading || !timestamps.length) {
+        return <div>Loading...</div>;
+    }
+
+    console.log({
+        timestamp,
+        index,
+    });
+
+    const handleChange = ({ target: { value } }: React.ChangeEvent<HTMLInputElement>) => {
+        setTimestampIndex(parseInt(value, 10) || 0);
+    }
+
   return (
     <div style={{
         display: 'flex',
@@ -8,8 +25,8 @@ export const Timeline = () => {
         justifySelf: 'flex-end',
         padding: '5em',
     }}>
-      <input type="range" min="0" max="100" step="1"
-        onChange={(e) => console.log(e.target.value)}
+      <input type="range" min="0" max={timestamps.length - 1} step="1" value={index || 0}
+        onChange={handleChange}
         style={{
           width: '100%',
         }}
