@@ -1,12 +1,69 @@
+:root {
+  /* Primary Colors */
+  --primary-yellow: #FFDD35;
+  /* Bright yellow for highlights or primary elements */
+  --accent-orange: #FFA500;
+  /* Accent orange for attention areas or warnings */
+  --dark-background: #1C1C1C;
+  /* Dark background for contrast, to enhance readability */
+  --neutral-gray: #A0A0A0;
+  /* Neutral gray for subtle borders or secondary text */
+  --alert-red: #FF5733;
+  /* Alert red for errors or critical alerts */
+
+  /* Semantic Usage */
+  --color-primary: var(--primary-yellow);
+  /* Main highlights like key markers or plane indicators */
+  --color-accent: var(--accent-orange);
+  /* Accent elements like active points or emphasis markers */
+  --color-background: var(--dark-background);
+  /* Background color for dashboard panels */
+  --color-secondary-text: var(--neutral-gray);
+  /* Subtle text elements or labels */
+  --color-alert: var(--alert-red);
+  /* Warnings or critical notifications */
+  --color-main-text: #FFFFFF;
+  /* Main text in white for best readability against dark background */
+
+  /* Main font for labels and body text */
+  --font-primary: 'Roboto', sans-serif;
+
+  /* Font for numerical data and metrics */
+  --font-mono: 'Roboto Mono', monospace;
+}
+
 #root {
   display: flex;
   flex-direction: column;
   height: 100vh;
-  background-color: #282c34;
-  color: white;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  background-color: var(--color-background);
+  color: var(--color-main-text);
   width: 100%;
+  font-family: var(--font-primary);
 }
+
+h1 {
+  font-size: 2em;
+  margin: 0;
+  letter-spacing: 0.1ch;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin: 0;
+  margin-bottom: 1em;
+  letter-spacing: 0.1ch;
+  text-transform: uppercase;
+}
+
+h3 {
+  font-size: 1.25em;
+  margin: 0;
+  margin-bottom: 1em;
+  letter-spacing: 0.1ch;
+  text-transform: uppercase;
+}
+
 
 .logo {
   height: 6em;
@@ -45,4 +102,50 @@
 
 .read-the-docs {
   color: #888;
+}
+
+.playback-slider-container input[type="range"]::-webkit-slider-runnable-track {
+  background: var(--track-color);
+}
+
+.playback-slider-container input[type="range"]::-webkit-slider-thumb {
+  background: var(--primary-color);
+  border: var(--thumb-border);
+}
+
+.playback-slider-container input[type="range"]::-webkit-slider-thumb:hover {
+  background: var(--hover-color);
+}
+
+/* Similarly update for Firefox and IE */
+
+.playback-slider-container input[type="range"]::-moz-range-track {
+  background: var(--track-color);
+}
+
+.playback-slider-container input[type="range"]::-moz-range-thumb {
+  background: var(--primary-color);
+  border: var(--thumb-border);
+}
+
+.playback-slider-container input[type="range"]::-moz-range-thumb:hover {
+  background: var(--hover-color);
+}
+
+/* IE and Edge */
+.playback-slider-container input[type="range"]::-ms-fill-lower {
+  background: var(--primary-color);
+}
+
+.playback-slider-container input[type="range"]::-ms-fill-upper {
+  background: var(--track-color);
+}
+
+.playback-slider-container input[type="range"]::-ms-thumb {
+  background: var(--primary-color);
+  border: var(--thumb-border);
+}
+
+.playback-slider-container input[type="range"]::-ms-thumb:hover {
+  background: var(--hover-color);
 }

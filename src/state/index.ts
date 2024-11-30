@@ -1,5 +1,14 @@
+/* eslint-disable @typescript-eslint/restrict-plus-operands */
+/* eslint-disable @typescript-eslint/no-unsafe-call */
+/* eslint-disable @typescript-eslint/no-unsafe-member-access */
+/* eslint-disable @typescript-eslint/no-unsafe-assignment */
 import { create } from "zustand";
 import { type TelemetryData } from "../types";
+
+type Coordinate = {
+  latitude: number;
+  longitude: number;
+};
 
 // Utility function to map input data to the state format
 const mapInputDataToState = (data: Array<{ timestamp: string }>) => {
@@ -31,9 +40,15 @@ type State = {
 
   setTimestamp: (timestamp: string) => void;
   setTimestampIndex: (index: number) => void;
+
+  play: () => void;
+  pause: () => void;
+  isPlaying: boolean;
+  playbackSpeed: number;
+  setPlaybackSpeed: (speed: number) => void;
 };
 
-export const useStore = create<State>((set) => ({
+export const useStore = create<State>((set, get) => ({
   telemetryData: {},
   timestamps: [],
   isLoading: false,
@@ -71,6 +86,59 @@ export const useStore = create<State>((set) => ({
         current: { entry, timestamp, index },
       };
     }),
+
+  playbackSpeed: 1,
+  isPlaying: false,
+  playTimeout: null,
+  play: () => {
+    // Clear any existing timeout
+    const { playTimeout } = get();
+    if (playTimeout) {
+      // eslint-disable-next-line @typescript-eslint/no-unsafe-argument
+      clearTimeout(playTimeout);
+    }
+
+    set({ isPlaying: true });
+
+    const playNextFrame = () => {
+      const { isPlaying, current, timestamps, setTimestamp, playbackSpeed } =
+        get();
+
+      if (!isPlaying || current.index === null) {
+        set({ playTimeout: null });
+        return;
+      }
+
+      const nextIndex = current.index + 1;
+      if (nextIndex < timestamps.length) {
+        setTimestamp(timestamps[nextIndex]);
+
+        // Calculate the delay based on playbackSpeed
+        const intervalTime = 1000 / playbackSpeed;
+
+        // Schedule the next frame
+        const timeoutId = setTimeout(playNextFrame, intervalTime);
+
+        // Store the timeout ID
+        set({ playTimeout: timeoutId });
+      } else {
+        set({ isPlaying: false, playTimeout: null });
+      }
+    };
+
+    // Start playback
+    playNextFrame();
+  },
+  pause: () => {
+    const { playTimeout } = get();
+    if (playTimeout) {
+      // eslint-disable-next-line @typescript-eslint/no-unsafe-argument
+      clearTimeout(playTimeout);
+      set({ playTimeout: null, isPlaying: false });
+    }
+  },
+
+  setPlaybackSpeed: (speed) => set({ playbackSpeed: speed }),
 
   importData: async (endpoint: string) => {
     set({ isLoading: true, error: null });
