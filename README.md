@@ -37,23 +37,23 @@ Responsive Layout:
 
 The layout is fully responsive, ensuring the application works seamlessly across all screen sizes, from mobile devices to large desktops.
 
-1. Global State Management with Zustand:
+### 1. Global State Management with Zustand:
 
 Implemented Zustand to manage the global state of telemetry data, enhancing the efficiency and simplicity of state management.
 
 Precomputed data structures to ensure real-time performance, optimizing the user experience.
 
-2. Data Fetching and Adaptation:
+### 2. Data Fetching and Adaptation:
 
 Added functionality to request data from an endpoint and adapt it for application use, with easy expansion to other data sources and endpoints.
 
-3. 3D Avionics Visualization:
+### 3. 3D Avionics Visualization:
 
 Integrated a 3D model of an airplane using React Three Fiber to represent avionic elements like pitch, roll, and scaled altitude.
 
 The 3D visualization provides a more immersive and real-world representation of flight data, enhancing the dashboard's visual appeal.
 
-4. Interactive Chart Section:
+### 4. Interactive Chart Section:
 
 Added a chart section to visualize data points from the beginning of the flight to the current timestamp.
 
@@ -61,13 +61,13 @@ Users can toggle specific data values on and off using settings, allowing for cu
 
 Clicking on a timestamp on the X-axis updates the application to view that specific timestamp, making the review process more interactive.
 
-5. Data Breakdown and Customization:
+### 5. Data Breakdown and Customization:
 
 Introduced sections for detailed data breakdowns, offering clear and precise readings of telemetry data.
 
 Data points increment and decrement in real-time to convey a better sense of how values are changing, creating a more dynamic and informative user experience.
 
-6. Semantic UI Components for Accessibility:
+### 6. Semantic UI Components for Accessibility:
 
 All timeline and range components are built using semantic elements, ensuring accessibility and enhancing the user experience for all users.
 
