@@ -33,6 +33,8 @@ We expect this project to take around 3 hours, but feel free to spend more or le
 ## Submission:
 Project Features and Additions
 
+![Beacon AI React Assessment](./public/screenshot.png)
+
 Responsive Layout:
 
 The layout is fully responsive, ensuring the application works seamlessly across all screen sizes, from mobile devices to large desktops.
