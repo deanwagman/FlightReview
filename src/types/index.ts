@@ -26,6 +26,16 @@ export type CurrentEntry = {
   index: number | null;
 };
 
+export type ChartDataPoints = {
+  altitudeFt: boolean;
+  groundSpeedKt: boolean;
+  fuelFlowGPH: boolean;
+  oilTempF: boolean;
+  oilPressurePSI: boolean;
+  volts: boolean;
+  amps: boolean;
+};
+
 export type State = {
   telemetryData: Record<string, TelemetryData>;
   timestamps: string[];
@@ -44,4 +54,7 @@ export type State = {
   playTimeout: NodeJS.Timeout | null;
 
   importData: (endpoint: string) => Promise<void>;
+
+  chartDataPoints: ChartDataPoints;
+  setChartDataPoints: (dataPoints: ChartDataPoints) => void;
 };

@@ -3,6 +3,7 @@ import { useEffect, lazy, Suspense } from "react";
 import { Timeline } from "./components/Timeline";
 import { Stat } from "./components/Stat";
 import { useStore } from "./state";
+import Settings from "./components/Settings";
 
 const LazyAvatar = lazy(() => import("./components/Avatar"));
 const LazyChart = lazy(() => import("./components/Chart"));
@@ -89,53 +90,46 @@ function App() {
           <div
             style={{
               flex: 1,
-              gap: "1em",
-              display: "flex",
-              flexDirection: "column",
             }}
           >
-            <div
-              style={{
-                flex: 1,
-              }}
-            >
-              <h2>Telemetry Data</h2>
-              <Suspense fallback={<div>Loading...</div>}>
-                <LazyChart />
-              </Suspense>
+            <h2>Telemetry Data</h2>
+            <Suspense fallback={<div>Loading...</div>}>
+              <LazyChart />
+            </Suspense>
+          </div>
+          <div className="double-stat--container">
+            <div className="stat--container">
+              <h3>Battery</h3>
+              <Stat label="Volts" value={entry.battery.volts} precision={1} />
+              <Stat label="Amps" value={entry.battery.amps} precision={1} />
             </div>
-            <div className="double-stat--container">
-              <div className="stat--container">
-                <h3>Battery</h3>
-                <Stat label="Volts" value={entry.battery.volts} precision={1} />
-                <Stat label="Amps" value={entry.battery.amps} precision={1} />
-              </div>
 
-              <div className="stat--container">
-                <h3>Engine</h3>
-                <Stat
-                  label="Fuel Flow (GPH)"
-                  value={entry.engine.fuelFlowGPH}
-                  precision={2}
-                />
-                <Stat
-                  label="Oil Temp (F)"
-                  value={entry.engine.oilTempF}
-                  precision={2}
-                />
-                <Stat
-                  label="Oil Pressure (PSI)"
-                  value={entry.engine.oilPressurePSI}
-                  precision={2}
-                />
-                <Stat label="RPM" value={entry.engine.rpm} precision={1} />
-              </div>
+            <div className="stat--container">
+              <h3>Engine</h3>
+              <Stat
+                label="Fuel Flow (GPH)"
+                value={entry.engine.fuelFlowGPH}
+                precision={2}
+              />
+              <Stat
+                label="Oil Temp (F)"
+                value={entry.engine.oilTempF}
+                precision={2}
+              />
+              <Stat
+                label="Oil Pressure (PSI)"
+                value={entry.engine.oilPressurePSI}
+                precision={2}
+              />
+              <Stat label="RPM" value={entry.engine.rpm} precision={1} />
             </div>
           </div>
         </div>
       </div>
 
       <Timeline />
+
+      <Settings />
     </div>
   );
 }

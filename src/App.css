@@ -30,8 +30,6 @@
 
   /* Font for numerical data and metrics */
   --font-mono: "Roboto Mono", monospace;
-
-
 }
 
 #root {
@@ -44,6 +42,8 @@
   font-family: var(--font-primary);
 }
 
+
+/* Typography */
 h1 {
   font-size: 2em;
   margin: 0;
@@ -66,6 +66,7 @@ h3 {
   text-transform: uppercase;
 }
 
+/* Layout */
 .app--container {
   block-size: 100%;
   display: flex;
@@ -200,8 +201,6 @@ h3 {
   }
 }
 
-
-
 /* Styling for range input */
 input[type="range"] {
   appearance: none;
@@ -317,6 +316,7 @@ button:active {
   border-color: var(--color-alert);
 }
 
+/* Styling for Playback Speed Selector */
 .playback-speed--popover {
   position: absolute;
   bottom: calc(100% + 0.5em);
@@ -359,4 +359,25 @@ button:active {
   background-color: #FFDD35;
   border-color: #FFDD35;
   color: var(--color-background);
+}
+
+/* Settings */
+.settings--container {
+  position: absolute;
+  top: 2em;
+  right: 2em;
+  text-align: right;
+}
+
+.settings--menu {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  padding: 1em;
+  background-color: var(--color-background);
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  align-items: flex-start;
+  margin-top: 1em;
 }

@@ -140,4 +140,15 @@ export const useStore = create<State>((set, get) => ({
       });
     }
   },
+
+  chartDataPoints: {
+    altitudeFt: true,
+    groundSpeedKt: true,
+    fuelFlowGPH: true,
+    oilTempF: true,
+    oilPressurePSI: true,
+    volts: true,
+    amps: true,
+  },
+  setChartDataPoints: (dataPoints) => set({ chartDataPoints: dataPoints }),
 }));

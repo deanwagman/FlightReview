@@ -29,12 +29,3 @@ Please **_do not_** use component libraries or styling libraries. (MUI, Bootstra
 3. Visualize the data currently indicated by the clock.
 
 We expect this project to take around 3 hours, but feel free to spend more or less time as you see fit.
-
-
----
-
-- [X] Requirments 
-- [X] 3D model for pitch, roll
-- [ ] Type safe everything
-- [ ] Clean up the code
-- [ ] Polish styling
