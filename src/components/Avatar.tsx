@@ -1,8 +1,7 @@
-/* eslint-disable @typescript-eslint/no-unsafe-assignment */
 import React, { Suspense, useEffect, useRef } from "react";
 import { Canvas, useThree, useFrame } from "@react-three/fiber";
 import * as THREE from "three";
-import { useGLTF, OrbitControls, Sky } from "@react-three/drei";
+import { useGLTF, Sky } from "@react-three/drei";
 
 type AltitudeScalingParams = {
   altitude: number;
@@ -32,8 +31,13 @@ function scaleAltitude({
   );
 }
 
-// Model Component
-const Model = React.forwardRef(({ altitude, pitch, roll }, ref) => {
+type ModelProps = {
+  altitude: number;
+  pitch: number;
+  roll: number;
+};
+
+const Model = React.forwardRef(({ altitude, pitch, roll }: ModelProps, ref) => {
   const model = useGLTF("/paper_airplane_gltf/scene.gltf");
 
   const scaledAltitude = scaleAltitude({
@@ -57,8 +61,8 @@ const Model = React.forwardRef(({ altitude, pitch, roll }, ref) => {
         node.castShadow = true;
         node.receiveShadow = true;
         if (node.material) {
-          node.material.roughness = 1;
-          node.material.metalness = 0;
+          (node.material as THREE.MeshStandardMaterial).roughness = 1;
+          (node.material as THREE.MeshStandardMaterial).metalness = 0;
         }
       }
     });
@@ -80,9 +84,9 @@ const Model = React.forwardRef(({ altitude, pitch, roll }, ref) => {
 });
 
 // Scene Component
-const Scene = ({ altitude, pitch, roll }) => {
+type SceneProps = { altitude: number; pitch: number; roll: number };
+const Scene = ({ altitude, pitch, roll }: SceneProps) => {
   const modelRef = useRef();
-  const controlsRef = useRef();
   const { camera } = useThree();
 
   useFrame(() => {
@@ -135,25 +139,20 @@ const Scene = ({ altitude, pitch, roll }) => {
       <Suspense fallback={null}>
         <Model ref={modelRef} altitude={altitude} pitch={pitch} roll={roll} />
       </Suspense>
-
-      {/* Controls */}
-      <OrbitControls
-        ref={controlsRef}
-        enableZoom={false}
-        enableRotate={false}
-      />
     </>
   );
 };
 
 // Avatar Component
-function Avatar({ altitude = 0, pitch = 0, roll = 0 }) {
-  return (
-    <Canvas shadows camera={{ position: [10, 10, 10], fov: 45 }}>
-      <Scene altitude={altitude} pitch={pitch} roll={roll} />
-    </Canvas>
-  );
-}
+const Avatar = ({ altitude = 0, pitch = 0, roll = 0 }) => (
+  <Canvas
+    shadows
+    camera={{ position: [10, 10, 10], fov: 45 }}
+    gl={{ antialias: false, powerPreference: "low-power" }}
+  >
+    <Scene altitude={altitude} pitch={pitch} roll={roll} />
+  </Canvas>
+);
 
 useGLTF.preload("/paper_airplane_gltf/scene.gltf");
 

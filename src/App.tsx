@@ -1,123 +1,57 @@
-/* eslint-disable @typescript-eslint/no-unsafe-member-access */
-/* eslint-disable @typescript-eslint/no-unsafe-assignment */
 import "./App.css";
-import { useEffect } from "react";
+import { useEffect, lazy, Suspense } from "react";
 import { Timeline } from "./components/Timeline";
 import { Stat } from "./components/Stat";
 import { useStore } from "./state";
 
-import Avatar from "./components/Avatar";
-import Chart from "./components/Chart";
+const LazyAvatar = lazy(() => import("./components/Avatar"));
+const LazyChart = lazy(() => import("./components/Chart"));
 
 function App() {
-  // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment, @typescript-eslint/no-unsafe-call, @typescript-eslint/no-unused-vars
   const {
     isLoading,
     importData,
     current: { entry, timestamp },
   } = useStore();
 
+  const formattedTimestamp = new Date(timestamp).toLocaleString("en-US", {
+    weekday: "long",
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+    hour: "numeric",
+    minute: "numeric",
+    second: "numeric",
+  });
+
   useEffect(() => {
-    // eslint-disable-next-line @typescript-eslint/no-unsafe-call
     importData("/time-series-data.json").catch((error) => {
       console.error("Failed to import data:", error);
     });
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+  }, [importData]);
 
   if (isLoading || !entry) {
     return <div>Loading...</div>;
   }
 
   return (
-    <div
-      style={{
-        blockSize: "100%",
-        display: "flex",
-        flexDirection: "column",
-        justifyContent: "center",
-        textAlign: "center",
-      }}
-    >
-      <div
-        style={{
-          display: "flex",
-          flexDirection: "row",
-          blockSize: "100%",
-          gap: "1em",
-        }}
-      >
-        <div
-          style={{
-            flex: "50%",
-            padding: "5em",
-            display: "flex",
-            flexDirection: "column",
-          }}
-        >
-          <div
-            style={{
-              flex: 1,
-              fontSize: "1.5em",
-              gap: "1em",
-              display: "flex",
-              flexDirection: "column",
-            }}
-          >
-            <div
-              style={{
-                flex: 1,
-                fontSize: "1.5em",
-                gap: "1em",
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "center",
-              }}
-            >
-              <Avatar
+    <div className="app--container">
+      <div className="main--container">
+        <div className="column--container">
+          <div className="avatar--container">
+            <Suspense fallback={<div>Loading...</div>}>
+              <LazyAvatar
                 altitude={entry.avionics.altitudeFt}
                 pitch={entry.avionics.pitchDeg}
                 roll={entry.avionics.rollDeg}
               />
-            </div>
-            <div
-              style={{
-                flex: 0,
-                gap: "1em",
-                display: "flex",
-                flexDirection: "column",
-                alignItems: "center",
-              }}
-            >
-              <h1
-                style={{
-                  fontSize: "1em",
-                  color: "var(--color-primary-text)",
-                }}
-              >
-                {new Date(timestamp).toLocaleString("en-US", {
-                  weekday: "long",
-                  year: "numeric",
-                  month: "long",
-                  day: "numeric",
-
-                  hour: "numeric",
-                  minute: "numeric",
-                  second: "numeric",
-                })}
-              </h1>
-            </div>
+            </Suspense>
+          </div>
+          <div className="clock--container">
+            <h1 className="clock--text">{formattedTimestamp}</h1>
           </div>
 
-          <div
-            style={{
-              flex: 1,
-              display: "flex",
-              flexDirection: "column",
-              alignItems: "center",
-              justifyContent: "center",
-            }}
-          >
+          <div className="stat--container">
             <h3>Avionics</h3>
             <Stat
               label="Latitude"
@@ -151,15 +85,7 @@ function App() {
             />
           </div>
         </div>
-        <div
-          style={{
-            flex: "50%",
-            // blockSize: "50%",
-            padding: "5em",
-            flexDircetion: "column",
-            display: "flex",
-          }}
-        >
+        <div className="column--container">
           <div
             style={{
               flex: 1,
@@ -174,47 +100,29 @@ function App() {
               }}
             >
               <h2>Telemetry Data</h2>
-              <Chart />
+              <Suspense fallback={<div>Loading...</div>}>
+                <LazyChart />
+              </Suspense>
             </div>
-            <div
-              style={{
-                flex: 1,
-                display: "flex",
-                flexDirection: "row",
-              }}
-            >
-              <div
-                style={{
-                  flex: 1,
-                  padding: "1em",
-                  display: "flex",
-                  flexDirection: "column",
-                  alignItems: "center",
-                  justifyContent: "center",
-                }}
-              >
+            <div className="double-stat--container">
+              <div className="stat--container">
                 <h3>Battery</h3>
                 <Stat label="Volts" value={entry.battery.volts} precision={1} />
                 <Stat label="Amps" value={entry.battery.amps} precision={1} />
               </div>
 
-              <div
-                style={{
-                  flex: 1,
-                  padding: "1em",
-                  display: "flex",
-                  flexDirection: "column",
-                  alignItems: "center",
-                  justifyContent: "center",
-                }}
-              >
+              <div className="stat--container">
                 <h3>Engine</h3>
                 <Stat
                   label="Fuel Flow (GPH)"
                   value={entry.engine.fuelFlowGPH}
                   precision={2}
                 />
-                <Stat label="Oil Temp (F)" value={entry.engine.oilTempF} precision={2} />
+                <Stat
+                  label="Oil Temp (F)"
+                  value={entry.engine.oilTempF}
+                  precision={2}
+                />
                 <Stat
                   label="Oil Pressure (PSI)"
                   value={entry.engine.oilPressurePSI}

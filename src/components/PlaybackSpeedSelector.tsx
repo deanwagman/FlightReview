@@ -54,41 +54,13 @@ const PlaybackSpeedSelector: React.FC<PlaybackSpeedSelectorProps> = ({
   };
 
   return (
-    <div
-      style={{ position: "relative" }}
-      ref={selectorRef}
-    >
-      <button
-        onClick={() => setIsOpen((prev) => !prev)}
-        style={{
-          backgroundColor: "#FFDD35",
-          borderColor: "#FFDD35",
-          padding: "0.5em 1em",
-          borderRadius: "4px",
-          cursor: "pointer",
-        }}
-      >
+    <div style={{ position: "relative" }} ref={selectorRef}>
+      <button onClick={() => setIsOpen((prev) => !prev)} className="button">
         {currentSpeed}X
       </button>
 
       {isOpen && (
-        <div
-          style={{
-            position: "absolute",
-            bottom: "100%",
-            left: "50%",
-            transform: "translateX(-50%)",
-            marginTop: "0.5em",
-            padding: "1em",
-            border: "1px solid #ccc",
-            borderRadius: "8px",
-            boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
-            zIndex: 1000,
-            display: "flex",
-            gap: "1em",
-            backgroundColor: "var(--color-background)",
-          }}
-        >
+        <div className="playback-speed--popover">
           <input
             type="range"
             min="0"
@@ -96,13 +68,7 @@ const PlaybackSpeedSelector: React.FC<PlaybackSpeedSelectorProps> = ({
             step="1"
             value={currentIndex !== -1 ? currentIndex : 0}
             onChange={handleSliderChange}
-            style={{
-              writingMode: "bt-lr", // For vertical orientation in some browsers
-              WebkitAppearance: "slider-vertical",
-              width: "8px",
-              height: "150px",
-              margin: "1em 0",
-            }}
+            className="playback-speed--input"
             list="playback-speed-options"
           />
           <datalist id="playback-speed-options">
@@ -110,17 +76,8 @@ const PlaybackSpeedSelector: React.FC<PlaybackSpeedSelectorProps> = ({
               <option key={option.value} value={index} label={option.label} />
             ))}
           </datalist>
-          <div
-            style={{
-              display: "flex",
-              justifyContent: "space-between",
-              flexDirection: "column-reverse",
-              marginTop: "0.5em",
-              fontSize: "0.8em",
-              padding: "0.45em",
-            }}
-          >
-            {playbackOptions.map((option, index) => (
+          <div className="playback-speed--labels">
+            {playbackOptions.map((option) => (
               <span key={option.value}>{option.label}</span>
             ))}
           </div>

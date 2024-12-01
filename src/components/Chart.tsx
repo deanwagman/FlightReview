@@ -1,5 +1,3 @@
-// Area Chart for displaying numerical data with Recharts
-
 import React from "react";
 import {
   AreaChart,
@@ -8,14 +6,10 @@ import {
   YAxis,
   CartesianGrid,
   Tooltip,
+    ResponsiveContainer,
 } from "recharts";
 import { useStore } from "../state";
-
-type TelemetryData = {
-  avionics: { altitudeFt: string };
-  engine: { fuelFlowGPH: string; oilTempF: string; oilPressurePSI: string };
-  battery: { volts: string; amps: string };
-};
+import type { TelemetryData } from "../types";
 
 type AdaptedData = {
   timestamp: string;
@@ -62,7 +56,7 @@ const adaptData = (
   });
 };
 
-const formatTime = (timestamp) => {
+const formatTime = (timestamp: string) => {
   const date = new Date(timestamp);
   // Format the date as needed, e.g., "HH:MM AM/PM"
   return date.toLocaleTimeString([], {
@@ -98,9 +92,8 @@ const Chart = () => {
   };
 
   return (
+    <ResponsiveContainer width="100%" height={400}>
     <AreaChart
-      width={800}
-      height={400}
       data={data}
       margin={{ top: 10, right: 30, left: 0, bottom: 0 }}
       onClick={handleClicked}
@@ -136,7 +129,7 @@ const Chart = () => {
         padding={{ right: 50 }}
         tickFormatter={formatTime}
       />
-      <YAxis domain={[0, 250]} allowDataOverflow={true} />
+      <YAxis allowDataOverflow={true} />
       <CartesianGrid strokeDasharray="3 3" />
       <Tooltip />
       <Area
@@ -182,6 +175,7 @@ const Chart = () => {
         fill="url(#colorAmps)"
       />
     </AreaChart>
+    </ResponsiveContainer>
   );
 };
 

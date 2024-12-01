@@ -1,4 +1,4 @@
-import { useSpring, animated, useTransition } from "@react-spring/web";
+import { useSpring, animated } from "@react-spring/web";
 
 export const Stat = ({ label, value, precision = 1 }) => {
   // Animated spring with value to simulate a counter
@@ -8,36 +8,9 @@ export const Stat = ({ label, value, precision = 1 }) => {
   });
 
   return (
-    <div
-      style={{
-        display: "flex",
-        flexDirction: "row",
-        justifyContent: "center",
-        alignItems: "center",
-        fontSize: "1.3em",
-        gap: "1em",
-        width: "100%",
-        color: "var(--color-secondary-text)",
-      }}
-    >
-      <div
-        style={{
-          flex: "50%",
-          width: "50%",
-          whiteSpace: "nowrap",
-          textAlign: "right",
-        }}
-      >
-        {label}
-      </div>
-      <animated.div
-        style={{
-          flex: "50%",
-          width: "50%",
-          textAlign: "left",
-          fontFamily: "monospace",
-        }}
-      >
+    <div className="stat--item--container">
+      <div className="stat--item--label">{label}</div>
+      <animated.div className="stat--item--value">
         {animatedValue.to((value) => value.toFixed(precision))}
       </animated.div>
     </div>

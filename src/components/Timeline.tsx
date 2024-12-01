@@ -1,19 +1,13 @@
-import { useState } from "react";
 import { useStore } from "../state";
 
-import PlaybackSpeedSelector  from "./PlaybackSpeedSelector";
-
-const buttonStyle = {
-  backgroundColor: "#FFDD35",
-  borderColor: "#FFDD35",
-};
+import PlaybackSpeedSelector from "./PlaybackSpeedSelector";
 
 export const Timeline = () => {
   const {
     timestamps,
     isLoading,
     isPlaying,
-    current: { timestamp, index },
+    current: { index },
     play,
     pause,
     setTimestampIndex,
@@ -21,7 +15,6 @@ export const Timeline = () => {
     playbackSpeed,
     setPlaybackSpeed,
   } = useStore();
-  const [showPlaybackSpeed, setShowPlaybackSpeed] = useState(false);
 
   if (isLoading || !timestamps.length) {
     return <div>Loading...</div>;
@@ -33,41 +26,20 @@ export const Timeline = () => {
     setTimestampIndex(parseInt(value, 10) || 0);
   };
 
-  const handlePlaybackSpeedToggle = () => {
-    setShowPlaybackSpeed((show) => !show);
-  };
-
   return (
-    <div
-      style={{
-        display: "flex",
-        justifyContent: "center",
-        alignItems: "center",
-        blockSize: "100%",
-        flex: 0,
-        gap: "1em",
-        padding: "5em",
-      }}
-    >
-      <button
-        onClick={() => {
-          if (isPlaying) {
-            pause();
-          } else {
-            play();
-          }
-        }}
-        style={buttonStyle}
-      >
-        &#9199;
-      </button>
-      <button onClick={() => setTimestampIndex(0)} style={buttonStyle}>
-        &#9198;
-      </button>
+    <div className="timeline--container">
+      {isPlaying ? (
+        <button className="button" onClick={pause}>pause</button>
+      ) : (
+        <button className="button" onClick={play}>play</button>
+      )}
+
+      <button className="button" onClick={() => setTimestampIndex(0)}>restart</button>
+
       <PlaybackSpeedSelector
-          currentSpeed={playbackSpeed}
-          setPlaybackSpeed={setPlaybackSpeed}
-        />
+        currentSpeed={playbackSpeed}
+        setPlaybackSpeed={setPlaybackSpeed}
+      />
 
       <input
         type="range"
@@ -76,9 +48,7 @@ export const Timeline = () => {
         step="1"
         value={index || 0}
         onChange={handleChange}
-        style={{
-          width: "100%",
-        }}
+        className="timeline--input"
       />
     </div>
   );
